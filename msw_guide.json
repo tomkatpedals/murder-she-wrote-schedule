@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-10-14T19:13:06-04:00",
+  "source": "https://www.primevideo.com/livetv",
+  "timezone": "America/New_York",
+  "now": {
+    "title": "The Prodigal Father",
+    "time": null,
+    "remaining": "38 min left",
+    "status": "now"
+  },
+  "upcoming": [
+    {
+      "title": "Where Have You Gone, Billy Boy?",
+      "time": "7:52 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Thursday's Child",
+      "time": "8:47 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder, Plain and Simple",
+      "time": "9:40 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Tainted Lady",
+      "time": "10:34 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Skinny According to Nick Cullhane",
+      "time": "11:27 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Bite the Big Apple",
+      "time": "12:21 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Night Fears",
+      "time": "1:13 AM",
+      "remaining": null,
+      "status": "upcoming"
+    }
+  ]
+}
