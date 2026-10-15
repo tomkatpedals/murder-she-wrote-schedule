@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T12:55:05-04:00",
+  "fetched_at": "2026-10-15T13:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Tinker, Tailor, Liar, Thief",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder on Madison Avenue",
       "time": "6:45 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder in Milan",
+      "time": "7:37 PM",
       "remaining": null,
       "status": "upcoming"
     }
