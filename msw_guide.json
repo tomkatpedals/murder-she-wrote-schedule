@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T06:17:32-04:00",
+  "fetched_at": "2026-10-15T06:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Terminal Connection",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "7 min left",
     "status": "now"
   },
   "upcoming": [
