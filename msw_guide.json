@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T09:25:05-04:00",
+  "fetched_at": "2026-10-15T09:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Danse Diabolique",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Programmed for Murder",
       "time": "3:14 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Day of the Dead",
+      "time": "4:06 PM",
       "remaining": null,
       "status": "upcoming"
     }
