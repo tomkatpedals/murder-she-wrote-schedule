@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T05:55:05-04:00",
+  "fetched_at": "2026-10-15T06:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Terminal Connection",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Monte Carlo Murders",
       "time": "11:42 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Tinker, Tailor, Liar, Thief",
+      "time": "12:35 PM",
       "remaining": null,
       "status": "upcoming"
     }
