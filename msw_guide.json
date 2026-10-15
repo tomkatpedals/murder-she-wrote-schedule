@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T10:20:05-04:00",
+  "fetched_at": "2026-10-15T10:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Witch's Curse",
     "time": null,
-    "remaining": "29 min left",
+    "remaining": "24 min left",
     "status": "now"
   },
   "upcoming": [
