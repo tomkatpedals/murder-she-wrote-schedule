@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-15T11:40:06-04:00",
+  "fetched_at": "2026-10-15T11:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Incident in Lot No. 7",
+    "title": "The Monte Carlo Murders",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Monte Carlo Murders",
-      "time": "11:42 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Tinker, Tailor, Liar, Thief",
       "time": "12:35 PM",
