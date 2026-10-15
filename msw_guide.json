@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-15T06:26:38-04:00",
+  "fetched_at": "2026-10-15T06:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Terminal Connection",
+    "title": "A Killing in Vegas",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Killing in Vegas",
-      "time": "6:28 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Committee",
       "time": "7:20 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Tinker, Tailor, Liar, Thief",
       "time": "12:35 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Ever After",
+      "time": "1:28 PM",
       "remaining": null,
       "status": "upcoming"
     }
