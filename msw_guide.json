@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T19:20:05-04:00",
+  "fetched_at": "2026-10-15T19:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder on Madison Avenue",
     "time": null,
-    "remaining": "16 min left",
+    "remaining": "11 min left",
     "status": "now"
   },
   "upcoming": [
