@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-14T20:45:06-04:00",
+  "fetched_at": "2026-10-14T20:49:46-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Where Have You Gone, Billy Boy?",
+    "title": "Thursday's Child",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Thursday's Child",
-      "time": "8:47 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder, Plain and Simple",
       "time": "9:40 PM",
