@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T17:25:05-04:00",
+  "fetched_at": "2026-10-15T17:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Angel of Death",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Dead File",
       "time": "11:09 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Night of the Coyote",
+      "time": "12:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
