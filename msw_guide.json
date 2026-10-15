@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-15T16:55:06-04:00",
+  "fetched_at": "2026-10-15T17:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Day of the Dead",
+    "title": "Angel of Death",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Angel of Death",
-      "time": "4:59 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Badge of Honor",
       "time": "5:52 PM",
