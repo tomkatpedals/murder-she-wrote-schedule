@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T16:25:06-04:00",
+  "fetched_at": "2026-10-15T16:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Day of the Dead",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Wind Around the Tower",
       "time": "10:15 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Dead File",
+      "time": "11:09 PM",
       "remaining": null,
       "status": "upcoming"
     }
