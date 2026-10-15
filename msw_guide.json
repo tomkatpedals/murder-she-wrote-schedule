@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-15T09:55:05-04:00",
+  "fetched_at": "2026-10-15T10:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Danse Diabolique",
+    "title": "The Witch's Curse",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Witch's Curse",
-      "time": "9:57 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Incident in Lot No. 7",
       "time": "10:50 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Day of the Dead",
       "time": "4:06 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Angel of Death",
+      "time": "4:59 PM",
       "remaining": null,
       "status": "upcoming"
     }
