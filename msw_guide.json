@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-14T20:55:05-04:00",
+  "fetched_at": "2026-10-14T21:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Thursday's Child",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Thicker Than Water",
       "time": "2:59 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Lines of Excellence",
+      "time": "3:51 AM",
       "remaining": null,
       "status": "upcoming"
     }
