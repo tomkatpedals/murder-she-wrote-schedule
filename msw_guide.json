@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-15T01:25:05-04:00",
+  "fetched_at": "2026-10-15T01:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night Fears",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Committee",
       "time": "7:20 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The List of Uri Lermentov",
+      "time": "8:13 AM",
       "remaining": null,
       "status": "upcoming"
     }
