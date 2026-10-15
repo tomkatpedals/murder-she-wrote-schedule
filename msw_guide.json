@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-14T23:15:06-04:00",
+  "fetched_at": "2026-10-14T23:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Tainted Lady",
+    "title": "The Skinny According to Nick Cullhane",
     "time": null,
-    "remaining": "11 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Skinny According to Nick Cullhane",
-      "time": "11:27 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Bite the Big Apple",
       "time": "12:21 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Terminal Connection",
       "time": "5:36 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Killing in Vegas",
+      "time": "6:28 AM",
       "remaining": null,
       "status": "upcoming"
     }
