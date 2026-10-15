@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-15T12:30:05-04:00",
+  "fetched_at": "2026-10-15T12:35:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Monte Carlo Murders",
+    "title": "Tinker, Tailor, Liar, Thief",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Tinker, Tailor, Liar, Thief",
-      "time": "12:35 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Ever After",
       "time": "1:28 PM",
