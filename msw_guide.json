@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-14T22:50:05-04:00",
+  "fetched_at": "2026-10-14T23:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Tainted Lady",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Judge Not",
       "time": "4:44 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Terminal Connection",
+      "time": "5:36 AM",
       "remaining": null,
       "status": "upcoming"
     }
