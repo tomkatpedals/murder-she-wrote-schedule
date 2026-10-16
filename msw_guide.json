@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T16:55:05-04:00",
+  "fetched_at": "2026-10-16T17:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Legacy of Borbey House",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder in White",
       "time": "10:57 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Northern Explosion",
+      "time": "11:50 PM",
       "remaining": null,
       "status": "upcoming"
     }
