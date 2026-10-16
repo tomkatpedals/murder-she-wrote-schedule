@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T17:55:05-04:00",
+  "fetched_at": "2026-10-16T18:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Phantom Killer",
     "time": null,
-    "remaining": "38 min left",
+    "remaining": "33 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Northern Explosion",
       "time": "11:50 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Proof in the Pudding",
+      "time": "12:44 AM",
       "remaining": null,
       "status": "upcoming"
     }
