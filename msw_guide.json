@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T07:55:05-04:00",
+  "fetched_at": "2026-10-16T08:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Killer Radio",
+    "title": "The Petrified Florist",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Petrified Florist",
-      "time": "8:00 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Threshold of Fear",
       "time": "8:53 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Love's Deadly Desire",
       "time": "2:11 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death in Hong Kong",
+      "time": "3:03 PM",
       "remaining": null,
       "status": "upcoming"
     }
