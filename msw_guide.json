@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T06:55:05-04:00",
+  "fetched_at": "2026-10-16T07:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Dead Eye",
     "time": null,
-    "remaining": "12 min left",
+    "remaining": "7 min left",
     "status": "now"
   },
   "upcoming": [
