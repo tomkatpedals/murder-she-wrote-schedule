@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T01:45:06-04:00",
+  "fetched_at": "2026-10-16T01:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Sugar and Spice, Malice and Vice",
+    "title": "The Classic Murder",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Classic Murder",
-      "time": "1:50 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Christmas Secret",
       "time": "2:43 AM",
