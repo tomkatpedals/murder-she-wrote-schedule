@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T19:20:05-04:00",
+  "fetched_at": "2026-10-16T19:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Virtual Murder",
+    "title": "Bloodlines",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Bloodlines",
-      "time": "7:24 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Killing in Cork",
       "time": "8:18 PM",
