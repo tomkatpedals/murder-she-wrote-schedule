@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T00:25:05-04:00",
+  "fetched_at": "2026-10-16T00:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night of the Coyote",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Dead Eye",
       "time": "6:15 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Killer Radio",
+      "time": "7:08 AM",
       "remaining": null,
       "status": "upcoming"
     }
