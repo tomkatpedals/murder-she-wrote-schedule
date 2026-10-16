@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T04:25:05-04:00",
+  "fetched_at": "2026-10-16T04:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Sound of Murder",
+    "title": "Final Curtain",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Final Curtain",
-      "time": "4:29 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Double Jeopardy",
       "time": "5:23 AM",
