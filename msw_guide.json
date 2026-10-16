@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T00:00:05-04:00",
+  "fetched_at": "2026-10-16T00:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dead File",
+    "title": "Night of the Coyote",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Night of the Coyote",
-      "time": "12:02 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Sugar and Spice, Malice and Vice",
       "time": "12:57 AM",
