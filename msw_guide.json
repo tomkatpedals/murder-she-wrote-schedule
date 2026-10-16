@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T12:00:05-04:00",
+  "fetched_at": "2026-10-16T12:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Lone Witness",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
