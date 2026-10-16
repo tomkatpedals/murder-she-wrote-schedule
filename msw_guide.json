@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T15:50:05-04:00",
+  "fetched_at": "2026-10-16T15:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death in Hong Kong",
+    "title": "For Whom the Ball Tolls",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "For Whom the Ball Tolls",
-      "time": "3:55 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Legacy of Borbey House",
       "time": "4:48 PM",
