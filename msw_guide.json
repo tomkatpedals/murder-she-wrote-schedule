@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T07:25:06-04:00",
+  "fetched_at": "2026-10-16T07:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Killer Radio",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Survivor",
       "time": "1:17 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Love's Deadly Desire",
+      "time": "2:11 PM",
       "remaining": null,
       "status": "upcoming"
     }
