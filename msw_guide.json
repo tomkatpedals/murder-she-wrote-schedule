@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T15:00:06-04:00",
+  "fetched_at": "2026-10-16T15:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Love's Deadly Desire",
+    "title": "Death in Hong Kong",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death in Hong Kong",
-      "time": "3:03 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "For Whom the Ball Tolls",
       "time": "3:55 PM",
