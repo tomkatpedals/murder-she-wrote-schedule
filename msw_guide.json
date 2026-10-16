@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T05:25:05-04:00",
+  "fetched_at": "2026-10-16T05:30:07-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Double Jeopardy",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Lone Witness",
       "time": "11:32 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Ship of Thieves",
+      "time": "12:26 PM",
       "remaining": null,
       "status": "upcoming"
     }
