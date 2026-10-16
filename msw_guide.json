@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T00:55:05-04:00",
+  "fetched_at": "2026-10-16T01:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Night of the Coyote",
+    "title": "Sugar and Spice, Malice and Vice",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Sugar and Spice, Malice and Vice",
-      "time": "12:57 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Classic Murder",
       "time": "1:50 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Killer Radio",
       "time": "7:08 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Petrified Florist",
+      "time": "8:00 AM",
       "remaining": null,
       "status": "upcoming"
     }
