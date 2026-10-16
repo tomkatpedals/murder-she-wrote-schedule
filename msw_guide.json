@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T07:05:06-04:00",
+  "fetched_at": "2026-10-16T07:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Dead Eye",
+    "title": "Killer Radio",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Killer Radio",
-      "time": "7:08 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Petrified Florist",
       "time": "8:00 AM",
