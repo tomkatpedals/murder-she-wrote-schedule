@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T18:30:05-04:00",
+  "fetched_at": "2026-10-16T18:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Phantom Killer",
+    "title": "A Virtual Murder",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Virtual Murder",
-      "time": "6:34 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Bloodlines",
       "time": "7:24 PM",
