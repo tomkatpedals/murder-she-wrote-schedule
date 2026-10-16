@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-16T09:55:05-04:00",
+  "fetched_at": "2026-10-16T10:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Big Kill",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "For Whom the Ball Tolls",
       "time": "3:55 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Legacy of Borbey House",
+      "time": "4:48 PM",
       "remaining": null,
       "status": "upcoming"
     }
