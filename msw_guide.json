@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T10:15:06-04:00",
+  "fetched_at": "2026-10-17T10:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Amsterdam Kill",
+    "title": "A Nest of Vipers",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Nest of Vipers",
-      "time": "10:18 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "To Kill a Legend",
       "time": "11:11 AM",
