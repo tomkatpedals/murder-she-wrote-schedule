@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T18:15:05-04:00",
+  "fetched_at": "2026-10-17T18:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "An Egg to Die For",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
