@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T02:10:05-04:00",
+  "fetched_at": "2026-10-17T02:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Portrait of Death",
     "time": null,
-    "remaining": "17 min left",
+    "remaining": "12 min left",
     "status": "now"
   },
   "upcoming": [
