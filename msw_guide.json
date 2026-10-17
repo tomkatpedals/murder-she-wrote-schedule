@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T12:50:05-04:00",
+  "fetched_at": "2026-10-17T12:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death in Hawaii",
+    "title": "Dear Deadly",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dear Deadly",
-      "time": "12:55 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Murder Channel",
       "time": "1:47 PM",
