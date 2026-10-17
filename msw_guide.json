@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T17:25:06-04:00",
+  "fetched_at": "2026-10-17T17:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder of the Month Club",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder a la Mode",
       "time": "11:30 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Dream Team",
+      "time": "12:21 AM",
       "remaining": null,
       "status": "upcoming"
     }
