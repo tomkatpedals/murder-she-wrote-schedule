@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T18:25:05-04:00",
+  "fetched_at": "2026-10-17T18:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "An Egg to Die For",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Dream Team",
       "time": "12:21 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "School for Murder",
+      "time": "1:12 AM",
       "remaining": null,
       "status": "upcoming"
     }
