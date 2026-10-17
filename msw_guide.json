@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T23:45:05-04:00",
+  "fetched_at": "2026-10-16T23:50:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder in White",
+    "title": "Northern Explosion",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Northern Explosion",
-      "time": "11:50 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Proof in the Pudding",
       "time": "12:44 AM",
