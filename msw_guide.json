@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T14:55:06-04:00",
+  "fetched_at": "2026-10-17T15:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Fatal Paradise",
     "time": null,
-    "remaining": "35 min left",
+    "remaining": "30 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder in High-C",
       "time": "8:51 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Twice Dead",
+      "time": "9:44 PM",
       "remaining": null,
       "status": "upcoming"
     }
