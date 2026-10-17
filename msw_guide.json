@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T07:35:05-04:00",
+  "fetched_at": "2026-10-17T07:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Roadkill",
+    "title": "A Murderous Muse",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Murderous Muse",
-      "time": "7:40 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Wheel of Death",
       "time": "8:33 AM",
