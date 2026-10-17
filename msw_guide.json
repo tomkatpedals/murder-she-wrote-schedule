@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T00:00:06-04:00",
+  "fetched_at": "2026-10-17T00:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Northern Explosion",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
