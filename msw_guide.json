@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T13:55:06-04:00",
+  "fetched_at": "2026-10-17T14:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Murder Channel",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death 'n Denial",
       "time": "7:57 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder in High-C",
+      "time": "8:51 PM",
       "remaining": null,
       "status": "upcoming"
     }
