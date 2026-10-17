@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T09:20:05-04:00",
+  "fetched_at": "2026-10-17T09:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Wheel of Death",
+    "title": "Amsterdam Kill",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Amsterdam Kill",
-      "time": "9:25 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Nest of Vipers",
       "time": "10:18 AM",
