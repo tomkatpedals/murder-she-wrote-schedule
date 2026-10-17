@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T12:00:05-04:00",
+  "fetched_at": "2026-10-17T12:05:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "To Kill a Legend",
+    "title": "Death in Hawaii",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death in Hawaii",
-      "time": "12:04 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dear Deadly",
       "time": "12:55 PM",
