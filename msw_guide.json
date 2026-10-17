@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T05:55:06-04:00",
+  "fetched_at": "2026-10-17T06:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dying Game",
+    "title": "The Trouble With Seth",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Trouble With Seth",
-      "time": "5:56 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Roadkill",
       "time": "6:48 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Death in Hawaii",
       "time": "12:04 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Dear Deadly",
+      "time": "12:55 PM",
       "remaining": null,
       "status": "upcoming"
     }
