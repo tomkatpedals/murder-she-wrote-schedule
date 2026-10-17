@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T15:10:06-04:00",
+  "fetched_at": "2026-10-17T15:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Fatal Paradise",
     "time": null,
-    "remaining": "20 min left",
+    "remaining": "15 min left",
     "status": "now"
   },
   "upcoming": [
