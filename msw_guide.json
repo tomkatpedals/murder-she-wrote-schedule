@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T05:00:06-04:00",
+  "fetched_at": "2026-10-17T05:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Time to Die",
+    "title": "The Dying Game",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Dying Game",
-      "time": "5:03 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Trouble With Seth",
       "time": "5:56 AM",
@@ -54,6 +48,12 @@
     {
       "title": "To Kill a Legend",
       "time": "11:11 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death in Hawaii",
+      "time": "12:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
