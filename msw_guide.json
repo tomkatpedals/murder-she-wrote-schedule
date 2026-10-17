@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T10:55:05-04:00",
+  "fetched_at": "2026-10-17T11:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Nest of Vipers",
     "time": null,
-    "remaining": "15 min left",
+    "remaining": "10 min left",
     "status": "now"
   },
   "upcoming": [
