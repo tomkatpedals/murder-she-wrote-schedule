@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T03:15:06-04:00",
+  "fetched_at": "2026-10-17T03:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadly Assets",
+    "title": "Murder on the Thirtieth Floor",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder on the Thirtieth Floor",
-      "time": "3:20 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Time to Die",
       "time": "4:12 AM",
