@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-16T21:05:06-04:00",
+  "fetched_at": "2026-10-16T21:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Killing in Cork",
+    "title": "Love and Hate in Cabot Cove",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Love and Hate in Cabot Cove",
-      "time": "9:10 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder at a Discount",
       "time": "10:04 PM",
