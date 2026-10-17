@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T06:45:05-04:00",
+  "fetched_at": "2026-10-17T06:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Trouble With Seth",
+    "title": "Roadkill",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Roadkill",
-      "time": "6:48 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Murderous Muse",
       "time": "7:40 AM",
