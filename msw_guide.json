@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T14:25:05-04:00",
+  "fetched_at": "2026-10-18T14:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Goes Double Platinum",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Southern Double-Cross",
       "time": "8:23 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Race to Death",
+      "time": "9:16 PM",
       "remaining": null,
       "status": "upcoming"
     }
