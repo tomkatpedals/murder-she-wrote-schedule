@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T00:25:05-04:00",
+  "fetched_at": "2026-10-18T00:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Dream Team",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "A Quaking in Aspen",
       "time": "6:29 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Secret of Gila Junction",
+      "time": "7:23 AM",
       "remaining": null,
       "status": "upcoming"
     }
