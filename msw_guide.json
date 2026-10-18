@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T19:55:05-04:00",
+  "fetched_at": "2026-10-17T20:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Scent of Murder",
+    "title": "Death 'n Denial",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death 'n Denial",
-      "time": "7:57 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in High-C",
       "time": "8:51 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Another Killing in Cork",
       "time": "2:06 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Game, Set, Murder",
+      "time": "2:59 AM",
       "remaining": null,
       "status": "upcoming"
     }
