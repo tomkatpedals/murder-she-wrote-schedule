@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T22:35:05-04:00",
+  "fetched_at": "2026-10-17T22:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Twice Dead",
+    "title": "Film Flam",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Film Flam",
-      "time": "10:36 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder a la Mode",
       "time": "11:30 PM",
