@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T20:50:08-04:00",
+  "fetched_at": "2026-10-17T20:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death 'n Denial",
+    "title": "Murder in High-C",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder in High-C",
-      "time": "8:51 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Twice Dead",
       "time": "9:44 PM",
