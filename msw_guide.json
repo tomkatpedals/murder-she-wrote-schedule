@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T10:50:05-04:00",
+  "fetched_at": "2026-10-18T10:55:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Shooting in Rome",
+    "title": "Deadly Bidding",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Deadly Bidding",
-      "time": "10:53 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Frozen Stiff",
       "time": "11:45 AM",
