@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T00:15:05-04:00",
+  "fetched_at": "2026-10-18T00:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder a la Mode",
     "time": null,
-    "remaining": "5 min left",
+    "remaining": "0 min left",
     "status": "now"
   },
   "upcoming": [
