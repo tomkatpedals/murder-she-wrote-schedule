@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T18:55:06-04:00",
+  "fetched_at": "2026-10-18T19:05:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Track of a Soldier",
     "time": null,
-    "remaining": "35 min left",
+    "remaining": "25 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Murder of Sherlock Holmes",
       "time": "12:43 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Murder of Sherlock Holmes",
+      "time": "1:36 AM",
       "remaining": null,
       "status": "upcoming"
     }
