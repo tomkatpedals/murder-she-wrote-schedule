@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T20:55:05-04:00",
+  "fetched_at": "2026-10-17T21:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in High-C",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Game, Set, Murder",
       "time": "2:59 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Big Easy Murder",
+      "time": "3:51 AM",
       "remaining": null,
       "status": "upcoming"
     }
