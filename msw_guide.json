@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T16:00:06-04:00",
+  "fetched_at": "2026-10-18T16:05:07-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder in Tempo",
+    "title": "The Dark Side of the Door",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Dark Side of the Door",
-      "time": "4:02 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder Among Friends",
       "time": "4:55 PM",
@@ -54,6 +48,12 @@
     {
       "title": "What You Don't Know Can Kill You",
       "time": "10:07 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Mrs. Parker's Revenge",
+      "time": "10:59 PM",
       "remaining": null,
       "status": "upcoming"
     }
