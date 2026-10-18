@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T16:50:05-04:00",
+  "fetched_at": "2026-10-18T16:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dark Side of the Door",
+    "title": "Murder Among Friends",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder Among Friends",
-      "time": "4:55 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Something Foul in Flappieville",
       "time": "5:47 PM",
