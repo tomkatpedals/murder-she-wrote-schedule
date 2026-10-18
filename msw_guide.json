@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T11:55:05-04:00",
+  "fetched_at": "2026-10-18T12:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Frozen Stiff",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Something Foul in Flappieville",
       "time": "5:47 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Track of a Soldier",
+      "time": "6:39 PM",
       "remaining": null,
       "status": "upcoming"
     }
