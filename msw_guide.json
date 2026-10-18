@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T06:25:06-04:00",
+  "fetched_at": "2026-10-18T06:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Nailed",
+    "title": "A Quaking in Aspen",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Quaking in Aspen",
-      "time": "6:29 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Secret of Gila Junction",
       "time": "7:23 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Unwilling Witness",
       "time": "12:36 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Kendo Killing",
+      "time": "1:28 PM",
       "remaining": null,
       "status": "upcoming"
     }
