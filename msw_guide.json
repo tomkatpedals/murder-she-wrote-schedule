@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T07:20:06-04:00",
+  "fetched_at": "2026-10-18T07:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Quaking in Aspen",
+    "title": "The Secret of Gila Junction",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Secret of Gila Junction",
-      "time": "7:23 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Nan's Ghost",
       "time": "8:16 AM",
