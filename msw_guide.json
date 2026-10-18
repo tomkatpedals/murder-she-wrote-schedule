@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T11:40:06-04:00",
+  "fetched_at": "2026-10-18T11:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadly Bidding",
+    "title": "Frozen Stiff",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Frozen Stiff",
-      "time": "11:45 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Unwilling Witness",
       "time": "12:36 PM",
