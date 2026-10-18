@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T03:55:05-04:00",
+  "fetched_at": "2026-10-18T04:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Big Easy Murder",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Shooting in Rome",
       "time": "10:00 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Deadly Bidding",
+      "time": "10:53 AM",
       "remaining": null,
       "status": "upcoming"
     }
