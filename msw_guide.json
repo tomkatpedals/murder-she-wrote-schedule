@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T17:45:05-04:00",
+  "fetched_at": "2026-10-18T17:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder Among Friends",
+    "title": "Something Foul in Flappieville",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Something Foul in Flappieville",
-      "time": "5:47 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Track of a Soldier",
       "time": "6:39 PM",
