@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T17:55:05-04:00",
+  "fetched_at": "2026-10-18T18:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Something Foul in Flappieville",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death by Demographics",
       "time": "11:51 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Murder of Sherlock Holmes",
+      "time": "12:43 AM",
       "remaining": null,
       "status": "upcoming"
     }
