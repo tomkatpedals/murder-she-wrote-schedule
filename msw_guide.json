@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T09:55:06-04:00",
+  "fetched_at": "2026-10-18T10:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Nan's Ghost",
+    "title": "Shooting in Rome",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Shooting in Rome",
-      "time": "10:00 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Deadly Bidding",
       "time": "10:53 AM",
@@ -54,6 +48,12 @@
     {
       "title": "The Dark Side of the Door",
       "time": "4:02 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder Among Friends",
+      "time": "4:55 PM",
       "remaining": null,
       "status": "upcoming"
     }
