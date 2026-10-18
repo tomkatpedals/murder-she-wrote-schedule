@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T04:40:05-04:00",
+  "fetched_at": "2026-10-18T04:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Big Easy Murder",
+    "title": "Home Care",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Home Care",
-      "time": "4:44 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Nailed",
       "time": "5:36 AM",
