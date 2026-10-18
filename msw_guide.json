@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-17T23:25:05-04:00",
+  "fetched_at": "2026-10-17T23:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Film Flam",
+    "title": "Murder a la Mode",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder a la Mode",
-      "time": "11:30 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Dream Team",
       "time": "12:21 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Nailed",
       "time": "5:36 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Quaking in Aspen",
+      "time": "6:29 AM",
       "remaining": null,
       "status": "upcoming"
     }
