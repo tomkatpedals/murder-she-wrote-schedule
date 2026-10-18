@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T13:25:05-04:00",
+  "fetched_at": "2026-10-18T13:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Unwilling Witness",
+    "title": "Kendo Killing",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Kendo Killing",
-      "time": "1:28 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death Goes Double Platinum",
       "time": "2:19 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Evidence of Malice",
       "time": "7:31 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Southern Double-Cross",
+      "time": "8:23 PM",
       "remaining": null,
       "status": "upcoming"
     }
