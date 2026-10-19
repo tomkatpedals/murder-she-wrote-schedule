@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-19T14:10:06-04:00",
+  "fetched_at": "2026-10-19T14:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "My Johnny Lies Over the Ocean",
+    "title": "Paint Me a Murder",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Paint Me a Murder",
-      "time": "2:14 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Tough Guys Don't Die",
       "time": "3:08 PM",
