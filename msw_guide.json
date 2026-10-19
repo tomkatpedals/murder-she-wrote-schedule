@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-19T16:00:06-04:00",
+  "fetched_at": "2026-10-19T16:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Tough Guys Don't Die",
+    "title": "Sudden Death",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Sudden Death",
-      "time": "4:02 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Footnote to Murder",
       "time": "4:56 PM",
