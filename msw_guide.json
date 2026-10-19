@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T23:25:05-04:00",
+  "fetched_at": "2026-10-18T23:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mrs. Parker's Revenge",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "It's a Dog's Life",
       "time": "5:11 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Lovers and Other Killers",
+      "time": "6:05 AM",
       "remaining": null,
       "status": "upcoming"
     }
