@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T23:55:05-04:00",
+  "fetched_at": "2026-10-19T00:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death by Demographics",
     "time": null,
-    "remaining": "47 min left",
+    "remaining": "42 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Lovers and Other Killers",
       "time": "6:05 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Hit, Run and Homicide",
+      "time": "7:00 AM",
       "remaining": null,
       "status": "upcoming"
     }
