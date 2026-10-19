@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-19T12:15:05-04:00",
+  "fetched_at": "2026-10-19T12:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Broadway Malady",
     "time": null,
-    "remaining": "9 min left",
+    "remaining": "4 min left",
     "status": "now"
   },
   "upcoming": [
