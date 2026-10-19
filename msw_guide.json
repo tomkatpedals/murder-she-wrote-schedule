@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T21:15:06-04:00",
+  "fetched_at": "2026-10-18T21:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Southern Double-Cross",
+    "title": "Race to Death",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "46 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Race to Death",
-      "time": "9:16 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "What You Don't Know Can Kill You",
       "time": "10:07 PM",
