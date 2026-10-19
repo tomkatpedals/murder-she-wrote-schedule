@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-18T22:05:05-04:00",
+  "fetched_at": "2026-10-18T22:10:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Race to Death",
+    "title": "What You Don't Know Can Kill You",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "What You Don't Know Can Kill You",
-      "time": "10:07 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Mrs. Parker's Revenge",
       "time": "10:59 PM",
