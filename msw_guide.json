@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-19T14:25:05-04:00",
+  "fetched_at": "2026-10-19T14:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Paint Me a Murder",
     "time": null,
-    "remaining": "42 min left",
+    "remaining": "37 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Funeral at Fifty-Mile",
       "time": "8:34 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Widow, Weep for Me",
+      "time": "9:29 PM",
       "remaining": null,
       "status": "upcoming"
     }
