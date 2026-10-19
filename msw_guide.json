@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-19T00:40:05-04:00",
+  "fetched_at": "2026-10-19T00:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death by Demographics",
+    "title": "The Murder of Sherlock Holmes",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Murder of Sherlock Holmes",
-      "time": "12:43 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Murder of Sherlock Holmes",
       "time": "1:36 AM",
