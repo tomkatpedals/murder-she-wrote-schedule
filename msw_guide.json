@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T23:35:05-04:00",
+  "fetched_at": "2026-10-18T23:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mrs. Parker's Revenge",
     "time": null,
-    "remaining": "15 min left",
+    "remaining": "10 min left",
     "status": "now"
   },
   "upcoming": [
