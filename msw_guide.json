@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-18T22:50:05-04:00",
+  "fetched_at": "2026-10-18T22:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "What You Don't Know Can Kill You",
     "time": null,
-    "remaining": "8 min left",
+    "remaining": "3 min left",
     "status": "now"
   },
   "upcoming": [
