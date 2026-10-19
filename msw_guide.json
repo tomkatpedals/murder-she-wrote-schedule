@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-19T18:55:05-04:00",
+  "fetched_at": "2026-10-19T19:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Armed Response",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Sing a Song of Murder",
       "time": "1:05 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Reflections of the Mind",
+      "time": "1:59 AM",
       "remaining": null,
       "status": "upcoming"
     }
