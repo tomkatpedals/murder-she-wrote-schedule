@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-19T05:10:06-04:00",
+  "fetched_at": "2026-10-19T05:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Hooray for Homicide",
+    "title": "It's a Dog's Life",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "It's a Dog's Life",
-      "time": "5:11 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Lovers and Other Killers",
       "time": "6:05 AM",
