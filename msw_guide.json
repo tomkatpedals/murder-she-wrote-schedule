@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T08:30:05-04:00",
+  "fetched_at": "2026-10-20T08:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Trial by Error",
     "time": null,
-    "remaining": "38 min left",
+    "remaining": "33 min left",
     "status": "now"
   },
   "upcoming": [
