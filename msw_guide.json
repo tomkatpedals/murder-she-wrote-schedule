@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-19T20:15:06-04:00",
+  "fetched_at": "2026-10-19T20:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder at the Oasis",
     "time": null,
-    "remaining": "18 min left",
+    "remaining": "13 min left",
     "status": "now"
   },
   "upcoming": [
