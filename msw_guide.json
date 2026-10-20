@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T13:35:05-04:00",
+  "fetched_at": "2026-10-20T13:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "If a Body Meet a Body",
+    "title": "Christopher Bundy - Died on Sunday",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Christopher Bundy - Died on Sunday",
-      "time": "1:39 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Menace, Anyone?",
       "time": "2:33 PM",
