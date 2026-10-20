@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T19:50:06-04:00",
+  "fetched_at": "2026-10-20T19:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Unfinished Business",
+    "title": "One White Rose for Death",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "One White Rose for Death",
-      "time": "7:55 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Corned Beef and Carnage",
       "time": "8:49 PM",
