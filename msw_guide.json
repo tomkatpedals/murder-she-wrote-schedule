@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T02:50:05-04:00",
+  "fetched_at": "2026-10-20T02:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Reflections of the Mind",
+    "title": "A Lady in the Lake",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Lady in the Lake",
-      "time": "2:53 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead Heat",
       "time": "3:47 AM",
