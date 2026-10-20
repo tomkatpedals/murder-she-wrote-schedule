@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T14:30:06-04:00",
+  "fetched_at": "2026-10-20T14:35:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Christopher Bundy - Died on Sunday",
+    "title": "Menace, Anyone?",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Menace, Anyone?",
-      "time": "2:33 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Perfect Foil",
       "time": "3:27 PM",
