@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T11:55:05-04:00",
+  "fetched_at": "2026-10-20T12:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "One Good Bid Deserves a Murder",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death Stalks the Big Top Part 2",
       "time": "6:08 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Unfinished Business",
+      "time": "7:02 PM",
       "remaining": null,
       "status": "upcoming"
     }
