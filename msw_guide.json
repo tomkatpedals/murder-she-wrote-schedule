@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T00:25:05-04:00",
+  "fetched_at": "2026-10-20T00:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "School for Scandal",
     "time": null,
-    "remaining": "39 min left",
+    "remaining": "34 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder Digs Deep",
       "time": "6:29 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder by Appointment Only",
+      "time": "7:23 AM",
       "remaining": null,
       "status": "upcoming"
     }
