@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T15:25:06-04:00",
+  "fetched_at": "2026-10-20T15:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Menace, Anyone?",
+    "title": "The Perfect Foil",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Perfect Foil",
-      "time": "3:27 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "If the Frame Fits",
       "time": "4:21 PM",
