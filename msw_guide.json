@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T01:00:06-04:00",
+  "fetched_at": "2026-10-20T01:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "School for Scandal",
+    "title": "Sing a Song of Murder",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Sing a Song of Murder",
-      "time": "1:05 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Reflections of the Mind",
       "time": "1:59 AM",
