@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T11:00:06-04:00",
+  "fetched_at": "2026-10-20T11:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in the Electric Cathedral",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
