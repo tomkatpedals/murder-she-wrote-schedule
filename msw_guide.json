@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T18:20:07-04:00",
+  "fetched_at": "2026-10-20T18:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Stalks the Big Top Part 2",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Obituary for a Dead Anchor",
       "time": "12:24 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Stage Struck",
+      "time": "1:17 AM",
       "remaining": null,
       "status": "upcoming"
     }
