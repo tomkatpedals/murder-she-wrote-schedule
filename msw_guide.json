@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T10:00:05-04:00",
+  "fetched_at": "2026-10-20T10:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Keep the Home Fries Burning",
+    "title": "Powder Keg",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Powder Keg",
-      "time": "10:03 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in the Electric Cathedral",
       "time": "10:57 AM",
