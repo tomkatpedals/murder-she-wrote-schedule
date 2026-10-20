@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T16:25:06-04:00",
+  "fetched_at": "2026-10-20T16:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "If the Frame Fits",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Deadline for Murder",
       "time": "10:36 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Magnum on Ice",
+      "time": "11:30 PM",
       "remaining": null,
       "status": "upcoming"
     }
