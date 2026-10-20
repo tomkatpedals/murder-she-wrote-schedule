@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-19T22:55:06-04:00",
+  "fetched_at": "2026-10-19T23:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Joshua Peabody Died Here ... Possibly",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Jessica Behind Bars",
       "time": "4:41 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Sticks and Stones",
+      "time": "5:35 AM",
       "remaining": null,
       "status": "upcoming"
     }
