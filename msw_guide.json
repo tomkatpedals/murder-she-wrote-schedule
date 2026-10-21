@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T04:55:05-04:00",
+  "fetched_at": "2026-10-21T05:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in a Minor Key",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "The Cemetery Vote",
       "time": "10:42 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Days Dwindle Down",
+      "time": "11:36 AM",
       "remaining": null,
       "status": "upcoming"
     }
