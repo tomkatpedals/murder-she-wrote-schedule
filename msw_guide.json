@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T10:55:05-04:00",
+  "fetched_at": "2026-10-21T11:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Cemetery Vote",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Way to Dusty Death",
       "time": "4:59 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "It Runs in the Family",
+      "time": "5:52 PM",
       "remaining": null,
       "status": "upcoming"
     }
