@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T17:25:06-04:00",
+  "fetched_at": "2026-10-21T17:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Way to Dusty Death",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
       "time": "11:14 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Harbinger of Death",
+      "time": "12:08 AM",
       "remaining": null,
       "status": "upcoming"
     }
