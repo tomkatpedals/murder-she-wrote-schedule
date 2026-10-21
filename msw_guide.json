@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T02:55:06-04:00",
+  "fetched_at": "2026-10-21T03:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night of the Headless Horseman",
     "time": null,
-    "remaining": "9 min left",
+    "remaining": "4 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "No Laughing Murder",
       "time": "8:55 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "No Accounting for Murder",
+      "time": "9:49 AM",
       "remaining": null,
       "status": "upcoming"
     }
