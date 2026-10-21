@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T16:25:05-04:00",
+  "fetched_at": "2026-10-21T16:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Old Habits Die Hard",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Doom With a View",
       "time": "10:21 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
+      "time": "11:14 PM",
       "remaining": null,
       "status": "upcoming"
     }
