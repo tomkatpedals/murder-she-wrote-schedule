@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T21:55:05-04:00",
+  "fetched_at": "2026-10-20T22:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Dead Man's Gold",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Crossed Up",
       "time": "3:58 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder in a Minor Key",
+      "time": "4:52 AM",
       "remaining": null,
       "status": "upcoming"
     }
