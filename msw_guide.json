@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T18:45:05-04:00",
+  "fetched_at": "2026-10-21T18:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "It Runs in the Family",
+    "title": "If It's Thursday, It Must Be Beverly",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "If It's Thursday, It Must Be Beverly",
-      "time": "6:46 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Steal Me a Story",
       "time": "7:40 PM",
