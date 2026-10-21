@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T09:45:05-04:00",
+  "fetched_at": "2026-10-21T09:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "No Laughing Murder",
+    "title": "No Accounting for Murder",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "No Accounting for Murder",
-      "time": "9:49 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Cemetery Vote",
       "time": "10:42 AM",
