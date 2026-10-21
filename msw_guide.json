@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T12:55:06-04:00",
+  "fetched_at": "2026-10-21T13:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Spoke",
     "time": null,
-    "remaining": "27 min left",
+    "remaining": "22 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "If It's Thursday, It Must Be Beverly",
       "time": "6:46 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Steal Me a Story",
+      "time": "7:40 PM",
       "remaining": null,
       "status": "upcoming"
     }
