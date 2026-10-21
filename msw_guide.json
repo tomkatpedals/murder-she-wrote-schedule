@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T14:25:05-04:00",
+  "fetched_at": "2026-10-21T14:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "When Thieves Fall Out",
     "time": null,
-    "remaining": "45 min left",
+    "remaining": "40 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Trouble in Eden",
       "time": "8:33 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Indian Giver",
+      "time": "9:27 PM",
       "remaining": null,
       "status": "upcoming"
     }
