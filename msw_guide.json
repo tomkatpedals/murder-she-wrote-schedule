@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T08:00:06-04:00",
+  "fetched_at": "2026-10-21T08:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death Takes a Dive",
+    "title": "Simon Says, Color Me Dead",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Simon Says, Color Me Dead",
-      "time": "8:01 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "No Laughing Murder",
       "time": "8:55 AM",
