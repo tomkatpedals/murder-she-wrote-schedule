@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T13:20:06-04:00",
+  "fetched_at": "2026-10-21T13:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder, She Spoke",
+    "title": "A Fashionable Way to Die",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Fashionable Way to Die",
-      "time": "1:23 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "When Thieves Fall Out",
       "time": "2:17 PM",
