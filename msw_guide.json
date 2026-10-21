@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T02:15:06-04:00",
+  "fetched_at": "2026-10-21T02:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night of the Headless Horseman",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
