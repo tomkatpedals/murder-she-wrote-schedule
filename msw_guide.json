@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T00:25:06-04:00",
+  "fetched_at": "2026-10-21T00:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Obituary for a Dead Anchor",
     "time": null,
-    "remaining": "51 min left",
+    "remaining": "46 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "The Bottom Line Is Murder",
       "time": "5:46 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death Takes a Dive",
+      "time": "6:39 AM",
       "remaining": null,
       "status": "upcoming"
     }
