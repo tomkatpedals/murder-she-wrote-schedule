@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T11:55:05-04:00",
+  "fetched_at": "2026-10-21T12:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Days Dwindle Down",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "It Runs in the Family",
       "time": "5:52 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "If It's Thursday, It Must Be Beverly",
+      "time": "6:46 PM",
       "remaining": null,
       "status": "upcoming"
     }
