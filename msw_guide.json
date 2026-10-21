@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T17:55:05-04:00",
+  "fetched_at": "2026-10-21T18:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "It Runs in the Family",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Harbinger of Death",
       "time": "12:08 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Curse of the Daanau",
+      "time": "1:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
