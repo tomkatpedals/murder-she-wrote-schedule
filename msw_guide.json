@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T21:40:06-04:00",
+  "fetched_at": "2026-10-20T21:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Corned Beef and Carnage",
+    "title": "Dead Man's Gold",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dead Man's Gold",
-      "time": "9:43 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Deadline for Murder",
       "time": "10:36 PM",
