@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T03:55:06-04:00",
+  "fetched_at": "2026-10-21T04:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Corpse Flew First Class",
+    "title": "Crossed Up",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Crossed Up",
-      "time": "3:58 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in a Minor Key",
       "time": "4:52 AM",
@@ -48,6 +42,12 @@
     {
       "title": "No Accounting for Murder",
       "time": "9:49 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Cemetery Vote",
+      "time": "10:42 AM",
       "remaining": null,
       "status": "upcoming"
     }
