@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-20T23:25:06-04:00",
+  "fetched_at": "2026-10-20T23:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadline for Murder",
+    "title": "Magnum on Ice",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Magnum on Ice",
-      "time": "11:30 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Obituary for a Dead Anchor",
       "time": "12:24 AM",
