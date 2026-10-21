@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T04:50:06-04:00",
+  "fetched_at": "2026-10-21T04:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Crossed Up",
+    "title": "Murder in a Minor Key",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder in a Minor Key",
-      "time": "4:52 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Bottom Line Is Murder",
       "time": "5:46 AM",
