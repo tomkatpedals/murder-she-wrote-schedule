@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T06:25:06-04:00",
+  "fetched_at": "2026-10-21T06:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Bottom Line Is Murder",
     "time": null,
-    "remaining": "13 min left",
+    "remaining": "8 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder, She Spoke",
       "time": "12:30 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Fashionable Way to Die",
+      "time": "1:23 PM",
       "remaining": null,
       "status": "upcoming"
     }
