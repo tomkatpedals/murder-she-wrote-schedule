@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T07:00:06-04:00",
+  "fetched_at": "2026-10-21T07:05:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Takes a Dive",
     "time": null,
-    "remaining": "1hr 0min left",
+    "remaining": "55 min left",
     "status": "now"
   },
   "upcoming": [
