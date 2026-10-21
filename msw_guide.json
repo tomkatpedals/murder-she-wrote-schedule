@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T06:35:05-04:00",
+  "fetched_at": "2026-10-21T06:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Bottom Line Is Murder",
+    "title": "Death Takes a Dive",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "1hr 20min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death Takes a Dive",
-      "time": "6:39 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Simon Says, Color Me Dead",
       "time": "8:01 AM",
