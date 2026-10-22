@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-21T23:05:06-04:00",
+  "fetched_at": "2026-10-21T23:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Doom With a View",
+    "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
     "time": null,
-    "remaining": "8 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
-      "time": "11:14 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Harbinger of Death",
       "time": "12:08 AM",
