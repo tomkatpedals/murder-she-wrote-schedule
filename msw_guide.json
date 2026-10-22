@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T17:25:05-04:00",
+  "fetched_at": "2026-10-22T17:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Weave a Tangled Web",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Sins of Castle Cove",
       "time": "11:25 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Trevor Hudson's Legacy",
+      "time": "12:18 AM",
       "remaining": null,
       "status": "upcoming"
     }
