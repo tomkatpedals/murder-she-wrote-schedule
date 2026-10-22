@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T09:55:05-04:00",
+  "fetched_at": "2026-10-22T10:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "J.B. ... As in Jailbird",
+    "title": "A Little Night Work",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Little Night Work",
-      "time": "9:58 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Mr. Penroy's Vacation",
       "time": "10:52 AM",
