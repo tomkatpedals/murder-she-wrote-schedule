@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T12:35:06-04:00",
+  "fetched_at": "2026-10-22T12:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Snow White, Blood Red",
+    "title": "Coal Miner's Slaughter",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Coal Miner's Slaughter",
-      "time": "12:40 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Wearing of the Green",
       "time": "1:34 PM",
