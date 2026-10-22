@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T16:10:05-04:00",
+  "fetched_at": "2026-10-22T16:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Prediction: Murder",
+    "title": "Something Borrowed, Someone Blue",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Something Borrowed, Someone Blue",
-      "time": "4:15 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Weave a Tangled Web",
       "time": "5:08 PM",
