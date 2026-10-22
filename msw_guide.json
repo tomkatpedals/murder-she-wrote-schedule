@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T07:25:06-04:00",
+  "fetched_at": "2026-10-22T07:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Deadpan",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Wearing of the Green",
       "time": "1:34 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Last Flight of the Dixie Damsel",
+      "time": "2:27 PM",
       "remaining": null,
       "status": "upcoming"
     }
