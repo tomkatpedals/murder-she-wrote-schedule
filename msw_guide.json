@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T02:25:05-04:00",
+  "fetched_at": "2026-10-22T02:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mourning Among the Wisterias",
     "time": null,
-    "remaining": "24 min left",
+    "remaining": "19 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Body Politic",
       "time": "8:12 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "J.B. ... As in Jailbird",
+      "time": "9:05 AM",
       "remaining": null,
       "status": "upcoming"
     }
