@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T04:35:05-04:00",
+  "fetched_at": "2026-10-22T04:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Very Good Year for Murder",
+    "title": "Benedict Arnold Slipped Here",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Benedict Arnold Slipped Here",
-      "time": "4:37 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Just Another Fish Story",
       "time": "5:31 AM",
