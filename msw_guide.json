@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T11:55:06-04:00",
+  "fetched_at": "2026-10-22T12:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Snow White, Blood Red",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Search for Peter Kerry",
       "time": "6:02 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Smooth Operators",
+      "time": "6:56 PM",
       "remaining": null,
       "status": "upcoming"
     }
