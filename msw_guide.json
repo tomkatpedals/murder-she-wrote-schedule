@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T19:25:05-04:00",
+  "fetched_at": "2026-10-22T19:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Smooth Operators",
     "time": null,
-    "remaining": "24 min left",
+    "remaining": "19 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Double Exposure",
       "time": "1:12 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Three Strikes, You're Out",
+      "time": "2:07 AM",
       "remaining": null,
       "status": "upcoming"
     }
