@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T05:20:06-04:00",
+  "fetched_at": "2026-10-22T05:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Benedict Arnold Slipped Here",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "5 min left",
     "status": "now"
   },
   "upcoming": [
