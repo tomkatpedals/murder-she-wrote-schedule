@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T15:20:06-04:00",
+  "fetched_at": "2026-10-22T15:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Last Flight of the Dixie Damsel",
+    "title": "Prediction: Murder",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Prediction: Murder",
-      "time": "3:21 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Something Borrowed, Someone Blue",
       "time": "4:15 PM",
