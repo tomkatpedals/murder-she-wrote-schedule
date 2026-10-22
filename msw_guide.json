@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T10:15:06-04:00",
+  "fetched_at": "2026-10-22T10:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Little Night Work",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
