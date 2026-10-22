@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T16:45:05-04:00",
+  "fetched_at": "2026-10-22T16:50:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Something Borrowed, Someone Blue",
     "time": null,
-    "remaining": "22 min left",
+    "remaining": "17 min left",
     "status": "now"
   },
   "upcoming": [
