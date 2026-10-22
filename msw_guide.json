@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T13:20:06-04:00",
+  "fetched_at": "2026-10-22T13:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Coal Miner's Slaughter",
     "time": null,
-    "remaining": "13 min left",
+    "remaining": "8 min left",
     "status": "now"
   },
   "upcoming": [
