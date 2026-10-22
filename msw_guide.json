@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T09:25:06-04:00",
+  "fetched_at": "2026-10-22T09:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "J.B. ... As in Jailbird",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Prediction: Murder",
       "time": "3:21 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Something Borrowed, Someone Blue",
+      "time": "4:15 PM",
       "remaining": null,
       "status": "upcoming"
     }
