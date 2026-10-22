@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T08:10:06-04:00",
+  "fetched_at": "2026-10-22T08:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadpan",
+    "title": "The Body Politic",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Body Politic",
-      "time": "8:12 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "J.B. ... As in Jailbird",
       "time": "9:05 AM",
