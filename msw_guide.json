@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T03:20:05-04:00",
+  "fetched_at": "2026-10-22T03:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder Through the Looking Glass",
     "time": null,
-    "remaining": "22 min left",
+    "remaining": "17 min left",
     "status": "now"
   },
   "upcoming": [
