@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T14:45:05-04:00",
+  "fetched_at": "2026-10-22T14:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Last Flight of the Dixie Damsel",
     "time": null,
-    "remaining": "35 min left",
+    "remaining": "30 min left",
     "status": "now"
   },
   "upcoming": [
