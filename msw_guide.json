@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T04:45:05-04:00",
+  "fetched_at": "2026-10-23T04:50:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Mirror, Mirror on the Wall",
+    "title": "Appointment in Athens",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Appointment in Athens",
-      "time": "4:50 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Seal of the Confessional",
       "time": "5:43 AM",
