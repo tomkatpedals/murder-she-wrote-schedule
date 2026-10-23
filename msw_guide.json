@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-22T23:20:05-04:00",
+  "fetched_at": "2026-10-22T23:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Truck Stop",
+    "title": "The Sins of Castle Cove",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Sins of Castle Cove",
-      "time": "11:25 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Trevor Hudson's Legacy",
       "time": "12:18 AM",
