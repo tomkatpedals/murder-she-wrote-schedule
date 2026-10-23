@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T17:20:11-04:00",
+  "fetched_at": "2026-10-23T17:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "How to Make a Killing Without Really Trying",
+    "title": "Fixer Upper",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Fixer Upper",
-      "time": "5:21 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Big Show of 1965",
       "time": "6:15 PM",
