@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T03:50:05-04:00",
+  "fetched_at": "2026-10-23T03:55:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mirror, Mirror on the Wall",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "54 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Mirror, Mirror on the Wall",
-      "time": "3:55 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Appointment in Athens",
       "time": "4:50 AM",
