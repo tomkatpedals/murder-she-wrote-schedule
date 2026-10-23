@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T11:00:06-04:00",
+  "fetched_at": "2026-10-23T11:05:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Night of the Tarantula",
+    "title": "When the Fat Lady Sings",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "When the Fat Lady Sings",
-      "time": "11:04 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Test of Wills",
       "time": "11:58 AM",
