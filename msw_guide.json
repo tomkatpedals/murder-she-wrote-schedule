@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T12:15:08-04:00",
+  "fetched_at": "2026-10-23T12:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Test of Wills",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
