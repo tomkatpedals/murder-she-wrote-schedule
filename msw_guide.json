@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T08:20:06-04:00",
+  "fetched_at": "2026-10-23T08:25:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Error of Her Ways",
+    "title": "Jack and Bill",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Jack and Bill",
-      "time": "8:25 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead Letter",
       "time": "9:18 AM",
