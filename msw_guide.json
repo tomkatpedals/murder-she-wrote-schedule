@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T19:05:05-04:00",
+  "fetched_at": "2026-10-23T19:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Big Show of 1965",
+    "title": "Murder -- According to Maggie",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder -- According to Maggie",
-      "time": "7:08 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "O'Malley's Luck",
       "time": "8:03 PM",
