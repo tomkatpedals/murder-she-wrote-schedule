@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T02:40:06-04:00",
+  "fetched_at": "2026-10-23T02:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Three Strikes, You're Out",
     "time": null,
-    "remaining": "19 min left",
+    "remaining": "14 min left",
     "status": "now"
   },
   "upcoming": [
