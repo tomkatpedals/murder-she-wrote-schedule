@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T19:25:05-04:00",
+  "fetched_at": "2026-10-23T19:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder -- According to Maggie",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Deadly Misunderstanding",
       "time": "1:25 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "See You in Court, Baby",
+      "time": "2:18 AM",
       "remaining": null,
       "status": "upcoming"
     }
