@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T13:35:06-04:00",
+  "fetched_at": "2026-10-23T13:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Class Act",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "5 min left",
     "status": "now"
   },
   "upcoming": [
