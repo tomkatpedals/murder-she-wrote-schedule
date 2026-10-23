@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T14:55:05-04:00",
+  "fetched_at": "2026-10-23T15:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Good-bye Charlie",
     "time": null,
-    "remaining": "38 min left",
+    "remaining": "33 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Always a Thief",
       "time": "8:57 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Shear Madness",
+      "time": "9:50 PM",
       "remaining": null,
       "status": "upcoming"
     }
