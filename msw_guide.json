@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T20:55:05-04:00",
+  "fetched_at": "2026-10-22T21:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "From Russia, with Blood",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "36 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Mirror, Mirror on the Wall",
       "time": "3:00 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Mirror, Mirror on the Wall",
+      "time": "3:55 AM",
       "remaining": null,
       "status": "upcoming"
     }
