@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T22:40:05-04:00",
+  "fetched_at": "2026-10-22T22:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Truck Stop",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
