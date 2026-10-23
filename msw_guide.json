@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T17:25:05-04:00",
+  "fetched_at": "2026-10-23T17:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Fixer Upper",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Sicilian Encounter",
       "time": "11:38 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Trials & Tribulations",
+      "time": "12:32 AM",
       "remaining": null,
       "status": "upcoming"
     }
