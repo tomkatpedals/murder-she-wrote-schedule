@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T06:35:07-04:00",
+  "fetched_at": "2026-10-23T06:40:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Seal of the Confessional",
+    "title": "The Grand Old Lady",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Grand Old Lady",
-      "time": "6:37 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Error of Her Ways",
       "time": "7:31 AM",
