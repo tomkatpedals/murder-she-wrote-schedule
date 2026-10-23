@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T00:15:06-04:00",
+  "fetched_at": "2026-10-23T00:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Sins of Castle Cove",
+    "title": "Trevor Hudson's Legacy",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Trevor Hudson's Legacy",
-      "time": "12:18 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Double Exposure",
       "time": "1:12 AM",
