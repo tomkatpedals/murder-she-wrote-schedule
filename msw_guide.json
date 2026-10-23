@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-22T23:55:05-04:00",
+  "fetched_at": "2026-10-23T00:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Sins of Castle Cove",
     "time": null,
-    "remaining": "22 min left",
+    "remaining": "17 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Seal of the Confessional",
       "time": "5:43 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Grand Old Lady",
+      "time": "6:37 AM",
       "remaining": null,
       "status": "upcoming"
     }
