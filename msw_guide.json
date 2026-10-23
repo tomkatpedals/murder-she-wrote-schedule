@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T08:50:05-04:00",
+  "fetched_at": "2026-10-23T08:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Jack and Bill",
     "time": null,
-    "remaining": "27 min left",
+    "remaining": "22 min left",
     "status": "now"
   },
   "upcoming": [
