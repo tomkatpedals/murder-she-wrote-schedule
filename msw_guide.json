@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T01:25:05-04:00",
+  "fetched_at": "2026-10-23T01:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Double Exposure",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "36 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Error of Her Ways",
       "time": "7:31 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Jack and Bill",
+      "time": "8:25 AM",
       "remaining": null,
       "status": "upcoming"
     }
