@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T13:25:06-04:00",
+  "fetched_at": "2026-10-23T13:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Class Act",
     "time": null,
-    "remaining": "20 min left",
+    "remaining": "15 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder -- According to Maggie",
       "time": "7:08 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "O'Malley's Luck",
+      "time": "8:03 PM",
       "remaining": null,
       "status": "upcoming"
     }
