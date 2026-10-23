@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T12:25:05-04:00",
+  "fetched_at": "2026-10-23T12:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Test of Wills",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Big Show of 1965",
       "time": "6:15 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder -- According to Maggie",
+      "time": "7:08 PM",
       "remaining": null,
       "status": "upcoming"
     }
