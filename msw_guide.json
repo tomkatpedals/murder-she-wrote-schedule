@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T21:45:06-04:00",
+  "fetched_at": "2026-10-23T21:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Always a Thief",
+    "title": "Shear Madness",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "54 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Shear Madness",
-      "time": "9:50 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Szechuan Dragon",
       "time": "10:45 PM",
