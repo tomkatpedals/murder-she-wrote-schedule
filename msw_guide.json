@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T18:25:05-04:00",
+  "fetched_at": "2026-10-24T18:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder, Plain and Simple",
+    "title": "Tainted Lady",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Tainted Lady",
-      "time": "6:26 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Skinny According to Nick Cullhane",
       "time": "7:19 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Judge Not",
       "time": "12:35 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Terminal Connection",
+      "time": "1:28 AM",
       "remaining": null,
       "status": "upcoming"
     }
