@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T01:20:05-04:00",
+  "fetched_at": "2026-10-24T01:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Trials & Tribulations",
+    "title": "Deadly Misunderstanding",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Deadly Misunderstanding",
-      "time": "1:25 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "See You in Court, Baby",
       "time": "2:18 AM",
