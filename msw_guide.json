@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T13:55:06-04:00",
+  "fetched_at": "2026-10-24T14:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Taxman Cometh",
+    "title": "From the Horse's Mouth",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "From the Horse's Mouth",
-      "time": "1:57 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Prodigal Father",
       "time": "2:51 PM",
