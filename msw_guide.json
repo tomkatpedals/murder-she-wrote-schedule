@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T21:55:05-04:00",
+  "fetched_at": "2026-10-23T22:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Shear Madness",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Family Jewels",
       "time": "4:05 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Body to Die For",
+      "time": "4:59 AM",
       "remaining": null,
       "status": "upcoming"
     }
