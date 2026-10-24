@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-24T19:25:05-04:00",
+  "fetched_at": "2026-10-24T19:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Skinny According to Nick Cullhane",
     "time": null,
-    "remaining": "47 min left",
+    "remaining": "42 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Terminal Connection",
       "time": "1:28 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Killing in Vegas",
+      "time": "2:20 AM",
       "remaining": null,
       "status": "upcoming"
     }
