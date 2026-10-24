@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T07:40:06-04:00",
+  "fetched_at": "2026-10-24T07:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Great Twain Robbery",
+    "title": "Ballad for a Blue Lady",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Ballad for a Blue Lady",
-      "time": "7:41 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in F Sharp",
       "time": "8:34 AM",
