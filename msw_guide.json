@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-24T14:25:05-04:00",
+  "fetched_at": "2026-10-24T14:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "From the Horse's Mouth",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Bite the Big Apple",
       "time": "8:13 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Night Fears",
+      "time": "9:05 PM",
       "remaining": null,
       "status": "upcoming"
     }
