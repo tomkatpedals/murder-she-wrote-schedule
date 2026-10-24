@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T20:55:06-04:00",
+  "fetched_at": "2026-10-23T21:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "O'Malley's Luck",
+    "title": "Always a Thief",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Always a Thief",
-      "time": "8:57 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Shear Madness",
       "time": "9:50 PM",
