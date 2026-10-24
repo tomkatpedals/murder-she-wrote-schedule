@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T12:05:06-04:00",
+  "fetched_at": "2026-10-24T12:10:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Moving Violation",
+    "title": "Who Killed J.B. Fletcher?",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Who Killed J.B. Fletcher?",
-      "time": "12:10 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Taxman Cometh",
       "time": "1:04 PM",
