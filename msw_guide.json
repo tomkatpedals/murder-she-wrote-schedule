@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T14:50:05-04:00",
+  "fetched_at": "2026-10-24T14:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "From the Horse's Mouth",
+    "title": "The Prodigal Father",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Prodigal Father",
-      "time": "2:51 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Where Have You Gone, Billy Boy?",
       "time": "3:44 PM",
