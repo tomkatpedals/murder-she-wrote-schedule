@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T15:40:05-04:00",
+  "fetched_at": "2026-10-24T15:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Prodigal Father",
+    "title": "Where Have You Gone, Billy Boy?",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Where Have You Gone, Billy Boy?",
-      "time": "3:44 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Thursday's Child",
       "time": "4:38 PM",
