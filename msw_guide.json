@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-24T00:55:05-04:00",
+  "fetched_at": "2026-10-24T01:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Trials & Tribulations",
     "time": null,
-    "remaining": "29 min left",
+    "remaining": "24 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Great Twain Robbery",
       "time": "6:46 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Ballad for a Blue Lady",
+      "time": "7:41 AM",
       "remaining": null,
       "status": "upcoming"
     }
