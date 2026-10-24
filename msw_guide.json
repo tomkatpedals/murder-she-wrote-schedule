@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-23T23:55:05-04:00",
+  "fetched_at": "2026-10-24T00:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Sicilian Encounter",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Return of Preston Giles",
       "time": "5:53 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Great Twain Robbery",
+      "time": "6:46 AM",
       "remaining": null,
       "status": "upcoming"
     }
