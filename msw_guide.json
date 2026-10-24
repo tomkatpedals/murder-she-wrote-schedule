@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T02:15:06-04:00",
+  "fetched_at": "2026-10-24T02:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadly Misunderstanding",
+    "title": "See You in Court, Baby",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "See You in Court, Baby",
-      "time": "2:18 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Hannigan's Wake",
       "time": "3:12 AM",
