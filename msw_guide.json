@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T05:50:05-04:00",
+  "fetched_at": "2026-10-24T05:55:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Body to Die For",
+    "title": "The Return of Preston Giles",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Return of Preston Giles",
-      "time": "5:53 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Great Twain Robbery",
       "time": "6:46 AM",
