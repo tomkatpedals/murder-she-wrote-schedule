@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-23T22:40:05-04:00",
+  "fetched_at": "2026-10-23T22:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Shear Madness",
+    "title": "The Szechuan Dragon",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Szechuan Dragon",
-      "time": "10:45 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Sicilian Encounter",
       "time": "11:38 PM",
