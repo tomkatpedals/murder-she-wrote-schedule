@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-24T14:55:05-04:00",
+  "fetched_at": "2026-10-24T15:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Prodigal Father",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Night Fears",
       "time": "9:05 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Unauthorized Obituary",
+      "time": "9:58 PM",
       "remaining": null,
       "status": "upcoming"
     }
