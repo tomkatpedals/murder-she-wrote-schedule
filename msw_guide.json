@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-24T03:25:05-04:00",
+  "fetched_at": "2026-10-24T03:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Hannigan's Wake",
     "time": null,
-    "remaining": "39 min left",
+    "remaining": "34 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Family Doctor",
       "time": "9:28 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Suspicion of Murder",
+      "time": "10:22 AM",
       "remaining": null,
       "status": "upcoming"
     }
