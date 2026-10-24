@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-24T11:15:05-04:00",
+  "fetched_at": "2026-10-24T11:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Suspicion of Murder",
+    "title": "Moving Violation",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Moving Violation",
-      "time": "11:16 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Who Killed J.B. Fletcher?",
       "time": "12:10 PM",
