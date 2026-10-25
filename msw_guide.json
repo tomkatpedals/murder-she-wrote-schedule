@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T18:25:05-04:00",
+  "fetched_at": "2026-10-25T18:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Wind Around the Tower",
     "time": null,
-    "remaining": "35 min left",
+    "remaining": "30 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Final Curtain",
       "time": "12:21 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Double Jeopardy",
+      "time": "1:14 AM",
       "remaining": null,
       "status": "upcoming"
     }
