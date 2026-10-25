@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T10:10:05-04:00",
+  "fetched_at": "2026-10-25T10:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Ever After",
+    "title": "To the Last Will I Grapple With Thee",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "To the Last Will I Grapple With Thee",
-      "time": "10:14 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Programmed for Murder",
       "time": "11:05 AM",
