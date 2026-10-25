@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T18:50:06-04:00",
+  "fetched_at": "2026-10-25T19:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Wind Around the Tower",
+    "title": "The Dead File",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Dead File",
-      "time": "7:01 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Night of the Coyote",
       "time": "7:54 PM",
