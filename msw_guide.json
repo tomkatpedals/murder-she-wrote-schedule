@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T09:15:06-04:00",
+  "fetched_at": "2026-10-25T09:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Tinker, Tailor, Liar, Thief",
+    "title": "Ever After",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Ever After",
-      "time": "9:20 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "To the Last Will I Grapple With Thee",
       "time": "10:14 AM",
