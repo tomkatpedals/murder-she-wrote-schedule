@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T11:55:05-04:00",
+  "fetched_at": "2026-10-25T12:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Programmed for Murder",
+    "title": "Day of the Dead",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Day of the Dead",
-      "time": "11:58 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Angel of Death",
       "time": "12:51 PM",
@@ -54,6 +48,12 @@
     {
       "title": "The Wind Around the Tower",
       "time": "6:07 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Dead File",
+      "time": "7:01 PM",
       "remaining": null,
       "status": "upcoming"
     }
