@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T02:25:05-04:00",
+  "fetched_at": "2026-10-25T02:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Killing in Vegas",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Tinker, Tailor, Liar, Thief",
       "time": "8:27 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Ever After",
+      "time": "9:20 AM",
       "remaining": null,
       "status": "upcoming"
     }
