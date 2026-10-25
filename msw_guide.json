@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T14:55:05-04:00",
+  "fetched_at": "2026-10-25T15:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder on Madison Avenue",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Sugar and Spice, Malice and Vice",
       "time": "8:49 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Classic Murder",
+      "time": "9:42 PM",
       "remaining": null,
       "status": "upcoming"
     }
