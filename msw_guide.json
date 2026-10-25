@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T02:15:05-04:00",
+  "fetched_at": "2026-10-25T02:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Terminal Connection",
+    "title": "A Killing in Vegas",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Killing in Vegas",
-      "time": "2:20 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Committee",
       "time": "3:12 AM",
