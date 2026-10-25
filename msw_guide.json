@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T04:55:06-04:00",
+  "fetched_at": "2026-10-25T05:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The List of Uri Lermentov",
+    "title": "Danse Diabolique",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Danse Diabolique",
-      "time": "4:58 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Witch's Curse",
       "time": "5:49 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Programmed for Murder",
       "time": "11:05 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Day of the Dead",
+      "time": "11:58 AM",
       "remaining": null,
       "status": "upcoming"
     }
