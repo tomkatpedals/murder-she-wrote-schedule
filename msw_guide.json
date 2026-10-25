@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T05:45:06-04:00",
+  "fetched_at": "2026-10-25T05:50:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Danse Diabolique",
+    "title": "The Witch's Curse",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Witch's Curse",
-      "time": "5:49 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Incident in Lot No. 7",
       "time": "6:42 AM",
