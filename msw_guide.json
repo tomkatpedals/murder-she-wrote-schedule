@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T14:10:05-04:00",
+  "fetched_at": "2026-10-25T14:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Badge of Honor",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
