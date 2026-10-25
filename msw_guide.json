@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T01:25:06-04:00",
+  "fetched_at": "2026-10-25T01:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Judge Not",
+    "title": "Terminal Connection",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Terminal Connection",
-      "time": "1:28 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Killing in Vegas",
       "time": "2:20 AM",
@@ -54,6 +48,12 @@
     {
       "title": "The Monte Carlo Murders",
       "time": "7:34 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Tinker, Tailor, Liar, Thief",
+      "time": "8:27 AM",
       "remaining": null,
       "status": "upcoming"
     }
