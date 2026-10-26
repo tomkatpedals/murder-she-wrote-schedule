@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T08:15:06-04:00",
+  "fetched_at": "2026-10-26T08:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Lone Witness",
+    "title": "Ship of Thieves",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Ship of Thieves",
-      "time": "8:18 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Survivor",
       "time": "9:09 AM",
