@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T20:45:05-04:00",
+  "fetched_at": "2026-10-25T20:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Night of the Coyote",
+    "title": "Sugar and Spice, Malice and Vice",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Sugar and Spice, Malice and Vice",
-      "time": "8:49 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Classic Murder",
       "time": "9:42 PM",
