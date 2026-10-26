@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T02:05:06-04:00",
+  "fetched_at": "2026-10-26T02:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Double Jeopardy",
+    "title": "Dead Eye",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dead Eye",
-      "time": "2:07 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Killer Radio",
       "time": "3:00 AM",
