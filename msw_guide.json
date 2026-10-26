@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T19:45:06-04:00",
+  "fetched_at": "2026-10-25T20:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dead File",
+    "title": "Night of the Coyote",
     "time": null,
-    "remaining": "8 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Night of the Coyote",
-      "time": "7:54 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Sugar and Spice, Malice and Vice",
       "time": "8:49 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Dead Eye",
       "time": "2:07 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Killer Radio",
+      "time": "3:00 AM",
       "remaining": null,
       "status": "upcoming"
     }
