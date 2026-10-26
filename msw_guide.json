@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T09:25:06-04:00",
+  "fetched_at": "2026-10-26T09:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Survivor",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Bloodlines",
       "time": "3:16 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Killing in Cork",
+      "time": "4:10 PM",
       "remaining": null,
       "status": "upcoming"
     }
