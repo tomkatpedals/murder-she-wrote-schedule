@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T16:05:06-04:00",
+  "fetched_at": "2026-10-26T16:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Bloodlines",
+    "title": "A Killing in Cork",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Killing in Cork",
-      "time": "4:10 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Love and Hate in Cabot Cove",
       "time": "5:02 PM",
