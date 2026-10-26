@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T14:55:05-04:00",
+  "fetched_at": "2026-10-26T15:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Virtual Murder",
     "time": null,
-    "remaining": "20 min left",
+    "remaining": "15 min left",
     "status": "now"
   },
   "upcoming": [
