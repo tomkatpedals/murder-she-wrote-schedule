@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T07:20:05-04:00",
+  "fetched_at": "2026-10-26T07:25:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Dead to Rights",
+    "title": "Lone Witness",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Lone Witness",
-      "time": "7:24 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Ship of Thieves",
       "time": "8:18 AM",
