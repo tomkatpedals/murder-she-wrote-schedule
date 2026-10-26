@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T20:20:05-04:00",
+  "fetched_at": "2026-10-25T20:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night of the Coyote",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "18 min left",
     "status": "now"
   },
   "upcoming": [
