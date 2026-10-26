@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T09:05:05-04:00",
+  "fetched_at": "2026-10-26T09:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Ship of Thieves",
+    "title": "The Survivor",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Survivor",
-      "time": "9:09 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Love's Deadly Desire",
       "time": "10:03 AM",
