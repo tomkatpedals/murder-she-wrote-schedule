@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T17:55:05-04:00",
+  "fetched_at": "2026-10-26T18:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Love and Hate in Cabot Cove",
+    "title": "Murder at a Discount",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder at a Discount",
-      "time": "5:56 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in White",
       "time": "6:49 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Time to Die",
       "time": "12:04 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Dying Game",
+      "time": "12:55 AM",
       "remaining": null,
       "status": "upcoming"
     }
