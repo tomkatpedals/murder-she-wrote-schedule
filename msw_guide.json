@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T09:20:06-04:00",
+  "fetched_at": "2026-10-26T09:25:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Survivor",
     "time": null,
-    "remaining": "42 min left",
+    "remaining": "37 min left",
     "status": "now"
   },
   "upcoming": [
