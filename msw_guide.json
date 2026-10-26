@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T00:25:06-04:00",
+  "fetched_at": "2026-10-26T00:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Final Curtain",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Dead to Rights",
       "time": "6:31 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Lone Witness",
+      "time": "7:24 AM",
       "remaining": null,
       "status": "upcoming"
     }
