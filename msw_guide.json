@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T05:35:06-04:00",
+  "fetched_at": "2026-10-26T05:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Threshold of Fear",
+    "title": "The Big Kill",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Big Kill",
-      "time": "5:38 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead to Rights",
       "time": "6:31 AM",
