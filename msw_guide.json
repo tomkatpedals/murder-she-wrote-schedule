@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T22:55:06-04:00",
+  "fetched_at": "2026-10-25T23:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Christmas Secret",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Threshold of Fear",
       "time": "4:45 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Big Kill",
+      "time": "5:38 AM",
       "remaining": null,
       "status": "upcoming"
     }
