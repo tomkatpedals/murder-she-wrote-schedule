@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-25T23:25:05-04:00",
+  "fetched_at": "2026-10-25T23:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Christmas Secret",
+    "title": "The Sound of Murder",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Sound of Murder",
-      "time": "11:28 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Final Curtain",
       "time": "12:21 AM",
@@ -54,6 +48,12 @@
     {
       "title": "The Big Kill",
       "time": "5:38 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Dead to Rights",
+      "time": "6:31 AM",
       "remaining": null,
       "status": "upcoming"
     }
