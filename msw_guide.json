@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T16:25:05-04:00",
+  "fetched_at": "2026-10-26T16:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Killing in Cork",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Deadly Assets",
       "time": "10:20 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder on the Thirtieth Floor",
+      "time": "11:12 PM",
       "remaining": null,
       "status": "upcoming"
     }
