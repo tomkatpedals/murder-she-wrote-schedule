@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-27T18:25:05-04:00",
+  "fetched_at": "2026-10-27T18:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Twice Dead",
+    "title": "Film Flam",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Film Flam",
-      "time": "6:28 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder a la Mode",
       "time": "7:22 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Home Care",
       "time": "12:35 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Nailed",
+      "time": "1:28 AM",
       "remaining": null,
       "status": "upcoming"
     }
