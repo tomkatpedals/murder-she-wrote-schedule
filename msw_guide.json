@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-27T17:35:06-04:00",
+  "fetched_at": "2026-10-27T17:40:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder in High-C",
+    "title": "Twice Dead",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Twice Dead",
-      "time": "5:36 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Film Flam",
       "time": "6:28 PM",
