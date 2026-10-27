@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-27T01:55:06-04:00",
+  "fetched_at": "2026-10-27T02:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Trouble With Seth",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death in Hawaii",
       "time": "7:56 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Dear Deadly",
+      "time": "8:47 AM",
       "remaining": null,
       "status": "upcoming"
     }
