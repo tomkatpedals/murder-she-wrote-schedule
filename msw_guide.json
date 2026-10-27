@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-26T20:35:05-04:00",
+  "fetched_at": "2026-10-26T20:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Northern Explosion",
+    "title": "Proof in the Pudding",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "46 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Proof in the Pudding",
-      "time": "8:36 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Portrait of Death",
       "time": "9:27 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Roadkill",
       "time": "2:40 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Murderous Muse",
+      "time": "3:32 AM",
       "remaining": null,
       "status": "upcoming"
     }
