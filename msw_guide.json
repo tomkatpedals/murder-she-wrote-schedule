@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-27T07:25:05-04:00",
+  "fetched_at": "2026-10-27T07:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "To Kill a Legend",
     "time": null,
-    "remaining": "30 min left",
+    "remaining": "25 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder of the Month Club",
       "time": "1:11 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "An Egg to Die For",
+      "time": "2:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
