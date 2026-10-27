@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T22:25:06-04:00",
+  "fetched_at": "2026-10-26T22:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Deadly Assets",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Wheel of Death",
       "time": "4:25 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Amsterdam Kill",
+      "time": "5:17 AM",
       "remaining": null,
       "status": "upcoming"
     }
