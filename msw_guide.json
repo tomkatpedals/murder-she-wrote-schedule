@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-27T00:50:06-04:00",
+  "fetched_at": "2026-10-27T00:55:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Time to Die",
+    "title": "The Dying Game",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Dying Game",
-      "time": "12:55 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Trouble With Seth",
       "time": "1:47 AM",
