@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-28T18:50:06-04:00",
+  "fetched_at": "2026-10-28T18:55:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "What You Don't Know Can Kill You",
+    "title": "Mrs. Parker's Revenge",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Mrs. Parker's Revenge",
-      "time": "6:51 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death by Demographics",
       "time": "7:43 PM",
