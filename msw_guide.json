@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-28T18:25:06-04:00",
+  "fetched_at": "2026-10-28T18:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "What You Don't Know Can Kill You",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Hooray for Homicide",
       "time": "12:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "It's a Dog's Life",
+      "time": "1:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
