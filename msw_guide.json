@@ -1,59 +1,59 @@
 {
-  "fetched_at": "2026-10-27T18:55:05-04:00",
+  "fetched_at": "2026-10-28T16:10:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Film Flam",
+    "title": "Evidence of Malice",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "4 min left",
     "status": "now"
   },
   "upcoming": [
     {
-      "title": "Murder a la Mode",
-      "time": "7:22 PM",
+      "title": "Southern Double-Cross",
+      "time": "4:15 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "The Dream Team",
-      "time": "8:12 PM",
+      "title": "Race to Death",
+      "time": "5:07 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "School for Murder",
-      "time": "9:04 PM",
+      "title": "What You Don't Know Can Kill You",
+      "time": "5:59 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "Another Killing in Cork",
-      "time": "9:58 PM",
+      "title": "Mrs. Parker's Revenge",
+      "time": "6:51 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "Game, Set, Murder",
-      "time": "10:51 PM",
+      "title": "Death by Demographics",
+      "time": "7:43 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "Big Easy Murder",
-      "time": "11:43 PM",
+      "title": "The Murder of Sherlock Holmes",
+      "time": "8:35 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "Home Care",
-      "time": "12:35 AM",
+      "title": "The Murder of Sherlock Holmes",
+      "time": "9:27 PM",
       "remaining": null,
       "status": "upcoming"
     },
     {
-      "title": "Nailed",
-      "time": "1:28 AM",
+      "title": "Deadly Lady",
+      "time": "10:20 PM",
       "remaining": null,
       "status": "upcoming"
     }
