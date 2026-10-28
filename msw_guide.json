@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-28T16:10:06-04:00",
+  "fetched_at": "2026-10-28T16:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Evidence of Malice",
+    "title": "Southern Double-Cross",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Southern Double-Cross",
-      "time": "4:15 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Race to Death",
       "time": "5:07 PM",
