@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-28T17:25:05-04:00",
+  "fetched_at": "2026-10-28T17:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Race to Death",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Birds of a Feather",
       "time": "11:15 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Hooray for Homicide",
+      "time": "12:09 AM",
       "remaining": null,
       "status": "upcoming"
     }
