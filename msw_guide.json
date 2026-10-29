@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-28T22:15:06-04:00",
+  "fetched_at": "2026-10-28T22:20:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Murder of Sherlock Holmes",
+    "title": "Deadly Lady",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "54 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Deadly Lady",
-      "time": "10:20 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Birds of a Feather",
       "time": "11:15 PM",
