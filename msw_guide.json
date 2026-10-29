@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T11:25:06-04:00",
+  "fetched_at": "2026-10-29T11:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Tough Guys Don't Die",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "23 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Widow, Weep for Me",
       "time": "5:21 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Joshua Peabody Died Here ... Possibly",
+      "time": "6:15 PM",
       "remaining": null,
       "status": "upcoming"
     }
