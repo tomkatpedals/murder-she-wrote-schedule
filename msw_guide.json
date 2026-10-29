@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T09:15:06-04:00",
+  "fetched_at": "2026-10-29T09:20:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "My Johnny Lies Over the Ocean",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
