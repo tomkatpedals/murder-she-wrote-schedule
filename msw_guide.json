@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-28T23:25:05-04:00",
+  "fetched_at": "2026-10-28T23:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Birds of a Feather",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death Casts a Spell",
       "time": "5:34 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Capitol Offense",
+      "time": "6:29 AM",
       "remaining": null,
       "status": "upcoming"
     }
