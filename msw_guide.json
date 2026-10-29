@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T04:30:06-04:00",
+  "fetched_at": "2026-10-29T04:35:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "We're Off to Kill the Wizard",
     "time": null,
-    "remaining": "9 min left",
+    "remaining": "4 min left",
     "status": "now"
   },
   "upcoming": [
