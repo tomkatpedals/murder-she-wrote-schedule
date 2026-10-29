@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T19:05:05-04:00",
+  "fetched_at": "2026-10-29T19:10:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Joshua Peabody Died Here ... Possibly",
+    "title": "Murder in the Afternoon",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder in the Afternoon",
-      "time": "7:09 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "School for Scandal",
       "time": "8:03 PM",
