@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T01:30:05-04:00",
+  "fetched_at": "2026-10-29T01:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "It's a Dog's Life",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
