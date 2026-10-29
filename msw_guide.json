@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T03:55:06-04:00",
+  "fetched_at": "2026-10-29T04:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "We're Off to Kill the Wizard",
     "time": null,
-    "remaining": "44 min left",
+    "remaining": "39 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Paint Me a Murder",
       "time": "10:06 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Tough Guys Don't Die",
+      "time": "11:00 AM",
       "remaining": null,
       "status": "upcoming"
     }
