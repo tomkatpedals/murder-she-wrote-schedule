@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T04:35:06-04:00",
+  "fetched_at": "2026-10-29T04:40:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "We're Off to Kill the Wizard",
+    "title": "Death Takes a Curtain Call",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death Takes a Curtain Call",
-      "time": "4:40 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death Casts a Spell",
       "time": "5:34 AM",
