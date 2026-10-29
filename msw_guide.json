@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-28T20:55:05-04:00",
+  "fetched_at": "2026-10-28T21:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Murder of Sherlock Holmes",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Hit, Run and Homicide",
       "time": "2:52 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "We're Off to Kill the Wizard",
+      "time": "3:46 AM",
       "remaining": null,
       "status": "upcoming"
     }
