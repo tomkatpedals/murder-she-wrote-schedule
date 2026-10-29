@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T14:25:05-04:00",
+  "fetched_at": "2026-10-29T14:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder Takes the Bus",
     "time": null,
-    "remaining": "12 min left",
+    "remaining": "7 min left",
     "status": "now"
   },
   "upcoming": [
