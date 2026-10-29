@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T05:30:05-04:00",
+  "fetched_at": "2026-10-29T05:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death Takes a Curtain Call",
+    "title": "Death Casts a Spell",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death Casts a Spell",
-      "time": "5:34 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Capitol Offense",
       "time": "6:29 AM",
