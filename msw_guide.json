@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T18:10:05-04:00",
+  "fetched_at": "2026-10-29T18:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Widow, Weep for Me",
+    "title": "Joshua Peabody Died Here ... Possibly",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Joshua Peabody Died Here ... Possibly",
-      "time": "6:15 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder in the Afternoon",
       "time": "7:09 PM",
