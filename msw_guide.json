@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T13:25:05-04:00",
+  "fetched_at": "2026-10-29T13:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Footnote to Murder",
     "time": null,
-    "remaining": "17 min left",
+    "remaining": "12 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder in the Afternoon",
       "time": "7:09 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "School for Scandal",
+      "time": "8:03 PM",
       "remaining": null,
       "status": "upcoming"
     }
