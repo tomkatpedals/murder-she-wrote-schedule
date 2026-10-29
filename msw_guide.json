@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T13:40:06-04:00",
+  "fetched_at": "2026-10-29T13:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Footnote to Murder",
+    "title": "Murder Takes the Bus",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder Takes the Bus",
-      "time": "1:43 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Armed Response",
       "time": "2:38 PM",
