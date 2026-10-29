@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T05:55:05-04:00",
+  "fetched_at": "2026-10-29T06:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Casts a Spell",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Sudden Death",
       "time": "11:54 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Footnote to Murder",
+      "time": "12:48 PM",
       "remaining": null,
       "status": "upcoming"
     }
