@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T19:30:05-04:00",
+  "fetched_at": "2026-10-29T19:35:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in the Afternoon",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
