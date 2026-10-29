@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T12:10:05-04:00",
+  "fetched_at": "2026-10-29T12:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Sudden Death",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
