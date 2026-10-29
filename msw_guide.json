@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T19:25:05-04:00",
+  "fetched_at": "2026-10-29T19:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in the Afternoon",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Sticks and Stones",
       "time": "1:27 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder Digs Deep",
+      "time": "2:21 AM",
       "remaining": null,
       "status": "upcoming"
     }
