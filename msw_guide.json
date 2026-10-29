@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T06:25:05-04:00",
+  "fetched_at": "2026-10-29T06:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death Casts a Spell",
+    "title": "Capitol Offense",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Capitol Offense",
-      "time": "6:29 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Broadway Malady",
       "time": "7:23 AM",
