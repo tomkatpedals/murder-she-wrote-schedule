@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T23:35:05-04:00",
+  "fetched_at": "2026-10-29T23:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Lady in the Lake",
+    "title": "Dead Heat",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dead Heat",
-      "time": "11:39 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Jessica Behind Bars",
       "time": "12:33 AM",
