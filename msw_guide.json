@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T13:25:06-04:00",
+  "fetched_at": "2026-10-30T13:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Stalks the Big Top Part 1",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Magnum on Ice",
       "time": "7:22 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Obituary for a Dead Anchor",
+      "time": "8:16 PM",
       "remaining": null,
       "status": "upcoming"
     }
