@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T16:55:05-04:00",
+  "fetched_at": "2026-10-30T17:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Corned Beef and Carnage",
     "time": null,
-    "remaining": "39 min left",
+    "remaining": "34 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Corpse Flew First Class",
       "time": "10:57 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Crossed Up",
+      "time": "11:50 PM",
       "remaining": null,
       "status": "upcoming"
     }
