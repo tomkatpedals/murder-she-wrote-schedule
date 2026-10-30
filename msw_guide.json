@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T03:10:05-04:00",
+  "fetched_at": "2026-10-30T03:15:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder Digs Deep",
+    "title": "Murder by Appointment Only",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder by Appointment Only",
-      "time": "3:15 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Trial by Error",
       "time": "4:09 AM",
