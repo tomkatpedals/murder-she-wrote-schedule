@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T13:05:06-04:00",
+  "fetched_at": "2026-10-30T13:10:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "If the Frame Fits",
+    "title": "Death Stalks the Big Top Part 1",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death Stalks the Big Top Part 1",
-      "time": "1:06 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death Stalks the Big Top Part 2",
       "time": "2:00 PM",
