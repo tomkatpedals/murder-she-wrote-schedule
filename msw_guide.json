@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T02:25:05-04:00",
+  "fetched_at": "2026-10-30T02:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder Digs Deep",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "If a Body Meet a Body",
       "time": "8:37 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Christopher Bundy - Died on Sunday",
+      "time": "9:31 AM",
       "remaining": null,
       "status": "upcoming"
     }
