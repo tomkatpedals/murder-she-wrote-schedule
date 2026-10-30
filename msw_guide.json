@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-29T21:50:05-04:00",
+  "fetched_at": "2026-10-29T21:55:11-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Sing a Song of Murder",
+    "title": "Reflections of the Mind",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Reflections of the Mind",
-      "time": "9:51 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Lady in the Lake",
       "time": "10:45 PM",
