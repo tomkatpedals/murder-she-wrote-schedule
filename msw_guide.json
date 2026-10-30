@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T11:25:05-04:00",
+  "fetched_at": "2026-10-30T11:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Perfect Foil",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Dead Man's Gold",
       "time": "5:35 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Deadline for Murder",
+      "time": "6:28 PM",
       "remaining": null,
       "status": "upcoming"
     }
