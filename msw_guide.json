@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T21:55:11-04:00",
+  "fetched_at": "2026-10-29T22:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Reflections of the Mind",
     "time": null,
-    "remaining": "49 min left",
+    "remaining": "44 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Trial by Error",
       "time": "4:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Keep the Home Fries Burning",
+      "time": "5:01 AM",
       "remaining": null,
       "status": "upcoming"
     }
