@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T08:55:06-04:00",
+  "fetched_at": "2026-10-30T09:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "If a Body Meet a Body",
     "time": null,
-    "remaining": "35 min left",
+    "remaining": "30 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Unfinished Business",
       "time": "2:54 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "One White Rose for Death",
+      "time": "3:47 PM",
       "remaining": null,
       "status": "upcoming"
     }
