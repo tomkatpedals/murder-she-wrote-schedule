@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T15:25:05-04:00",
+  "fetched_at": "2026-10-30T15:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Unfinished Business",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Stage Struck",
       "time": "9:09 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Night of the Headless Horseman",
+      "time": "10:03 PM",
       "remaining": null,
       "status": "upcoming"
     }
