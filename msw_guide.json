@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T16:40:06-04:00",
+  "fetched_at": "2026-10-30T16:45:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "One White Rose for Death",
+    "title": "Corned Beef and Carnage",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Corned Beef and Carnage",
-      "time": "4:41 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead Man's Gold",
       "time": "5:35 PM",
