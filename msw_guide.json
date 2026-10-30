@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T00:30:06-04:00",
+  "fetched_at": "2026-10-30T00:35:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Dead Heat",
+    "title": "Jessica Behind Bars",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Jessica Behind Bars",
-      "time": "12:33 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Sticks and Stones",
       "time": "1:27 AM",
