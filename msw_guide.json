@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T13:55:05-04:00",
+  "fetched_at": "2026-10-30T14:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Death Stalks the Big Top Part 1",
+    "title": "Death Stalks the Big Top Part 2",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Death Stalks the Big Top Part 2",
-      "time": "2:00 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Unfinished Business",
       "time": "2:54 PM",
