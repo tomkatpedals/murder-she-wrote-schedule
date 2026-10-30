@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T06:25:05-04:00",
+  "fetched_at": "2026-10-30T06:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Powder Keg",
     "time": null,
-    "remaining": "23 min left",
+    "remaining": "18 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "If the Frame Fits",
       "time": "12:12 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death Stalks the Big Top Part 1",
+      "time": "1:06 PM",
       "remaining": null,
       "status": "upcoming"
     }
