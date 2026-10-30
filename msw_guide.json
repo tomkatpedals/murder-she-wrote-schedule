@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T21:25:05-04:00",
+  "fetched_at": "2026-10-29T21:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Sing a Song of Murder",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder by Appointment Only",
       "time": "3:15 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Trial by Error",
+      "time": "4:09 AM",
       "remaining": null,
       "status": "upcoming"
     }
