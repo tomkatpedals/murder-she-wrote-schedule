@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T10:35:05-04:00",
+  "fetched_at": "2026-10-30T10:40:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Menace, Anyone?",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
