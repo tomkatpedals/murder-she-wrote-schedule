@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T04:05:06-04:00",
+  "fetched_at": "2026-10-30T04:15:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder by Appointment Only",
+    "title": "Trial by Error",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Trial by Error",
-      "time": "4:09 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Keep the Home Fries Burning",
       "time": "5:01 AM",
