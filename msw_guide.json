@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T08:40:05-04:00",
+  "fetched_at": "2026-10-31T08:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Spoke",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
