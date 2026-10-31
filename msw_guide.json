@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T11:00:05-04:00",
+  "fetched_at": "2026-10-31T11:05:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "When Thieves Fall Out",
+    "title": "Witness for the Defense",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Witness for the Defense",
-      "time": "11:03 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Old Habits Die Hard",
       "time": "11:57 AM",
