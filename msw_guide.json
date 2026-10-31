@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T02:20:06-04:00",
+  "fetched_at": "2026-10-31T02:25:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Bottom Line Is Murder",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "5 min left",
     "status": "now"
   },
   "upcoming": [
