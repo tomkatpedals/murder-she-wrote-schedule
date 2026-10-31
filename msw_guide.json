@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T04:45:06-04:00",
+  "fetched_at": "2026-10-31T04:50:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Simon Says, Color Me Dead",
+    "title": "No Laughing Murder",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "No Laughing Murder",
-      "time": "4:47 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "No Accounting for Murder",
       "time": "5:41 AM",
