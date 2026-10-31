@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T12:50:05-04:00",
+  "fetched_at": "2026-10-31T12:55:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Old Habits Die Hard",
+    "title": "The Way to Dusty Death",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Way to Dusty Death",
-      "time": "12:51 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "It Runs in the Family",
       "time": "1:44 PM",
