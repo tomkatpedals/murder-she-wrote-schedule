@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T21:55:05-04:00",
+  "fetched_at": "2026-10-30T22:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Stage Struck",
     "time": null,
-    "remaining": "7 min left",
+    "remaining": "2 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Simon Says, Color Me Dead",
       "time": "3:53 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "No Laughing Murder",
+      "time": "4:47 AM",
       "remaining": null,
       "status": "upcoming"
     }
