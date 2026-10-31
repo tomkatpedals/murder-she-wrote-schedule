@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T04:25:05-04:00",
+  "fetched_at": "2026-10-31T04:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Simon Says, Color Me Dead",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "When Thieves Fall Out",
       "time": "10:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Witness for the Defense",
+      "time": "11:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
