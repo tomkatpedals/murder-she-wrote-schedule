@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T11:25:05-04:00",
+  "fetched_at": "2026-10-31T11:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Witness for the Defense",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Indian Giver",
       "time": "5:19 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Doom With a View",
+      "time": "6:13 PM",
       "remaining": null,
       "status": "upcoming"
     }
