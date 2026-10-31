@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T01:25:06-04:00",
+  "fetched_at": "2026-10-31T01:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in a Minor Key",
     "time": null,
-    "remaining": "12 min left",
+    "remaining": "7 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Days Dwindle Down",
       "time": "7:28 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder, She Spoke",
+      "time": "8:22 AM",
       "remaining": null,
       "status": "upcoming"
     }
