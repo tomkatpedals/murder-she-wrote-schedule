@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-30T22:00:06-04:00",
+  "fetched_at": "2026-10-30T22:05:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Stage Struck",
+    "title": "Night of the Headless Horseman",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Night of the Headless Horseman",
-      "time": "10:03 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Corpse Flew First Class",
       "time": "10:57 PM",
