@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T23:55:06-04:00",
+  "fetched_at": "2026-10-31T00:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Crossed Up",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "No Accounting for Murder",
       "time": "5:41 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Cemetery Vote",
+      "time": "6:34 AM",
       "remaining": null,
       "status": "upcoming"
     }
