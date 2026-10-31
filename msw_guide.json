@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T11:55:06-04:00",
+  "fetched_at": "2026-10-31T12:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Witness for the Defense",
+    "title": "Old Habits Die Hard",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Old Habits Die Hard",
-      "time": "11:57 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Way to Dusty Death",
       "time": "12:51 PM",
