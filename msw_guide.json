@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-30T19:55:05-04:00",
+  "fetched_at": "2026-10-30T20:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Magnum on Ice",
     "time": null,
-    "remaining": "20 min left",
+    "remaining": "15 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Bottom Line Is Murder",
       "time": "1:38 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death Takes a Dive",
+      "time": "2:31 AM",
       "remaining": null,
       "status": "upcoming"
     }
