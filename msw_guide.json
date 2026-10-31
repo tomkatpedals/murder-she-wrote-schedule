@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T14:55:06-04:00",
+  "fetched_at": "2026-10-31T15:00:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "If It's Thursday, It Must Be Beverly",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Curse of the Daanau",
       "time": "8:54 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Mourning Among the Wisterias",
+      "time": "9:47 PM",
       "remaining": null,
       "status": "upcoming"
     }
