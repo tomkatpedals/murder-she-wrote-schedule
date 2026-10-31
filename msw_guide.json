@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T08:20:06-04:00",
+  "fetched_at": "2026-10-31T08:25:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Days Dwindle Down",
+    "title": "Murder, She Spoke",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder, She Spoke",
-      "time": "8:22 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Fashionable Way to Die",
       "time": "9:15 AM",
