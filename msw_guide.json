@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T19:25:06-04:00",
+  "fetched_at": "2026-10-31T19:30:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "Benedict Arnold Slipped Here",
       "time": "12:29 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Just Another Fish Story",
+      "time": "1:23 AM",
       "remaining": null,
       "status": "upcoming"
     }
