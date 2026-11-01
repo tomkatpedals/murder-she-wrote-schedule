@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T20:25:06-04:00",
+  "fetched_at": "2026-10-31T20:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Harbinger of Death",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "23 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "Just Another Fish Story",
       "time": "1:23 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Showdown in Saskatchewan",
+      "time": "2:16 AM",
       "remaining": null,
       "status": "upcoming"
     }
