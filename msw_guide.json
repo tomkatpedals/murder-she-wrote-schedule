@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T05:55:05-05:00",
+  "fetched_at": "2026-11-01T06:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Little Night Work",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Something Borrowed, Someone Blue",
       "time": "12:07 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Weave a Tangled Web",
+      "time": "1:00 PM",
       "remaining": null,
       "status": "upcoming"
     }
