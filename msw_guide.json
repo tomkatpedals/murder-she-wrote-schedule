@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T23:55:06-04:00",
+  "fetched_at": "2026-11-01T00:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Very Good Year for Murder",
     "time": null,
-    "remaining": "33 min left",
+    "remaining": "28 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "J.B. ... As in Jailbird",
       "time": "4:57 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Little Night Work",
+      "time": "5:50 AM",
       "remaining": null,
       "status": "upcoming"
     }
