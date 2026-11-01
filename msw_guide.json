@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T01:55:06-04:00",
+  "fetched_at": "2026-11-01T01:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Just Another Fish Story",
     "time": null,
-    "remaining": "1hr 20min left",
+    "remaining": "1hr 15min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "Mr. Penroy's Vacation",
       "time": "6:44 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Snow White, Blood Red",
+      "time": "7:38 AM",
       "remaining": null,
       "status": "upcoming"
     }
