@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T11:25:05-05:00",
+  "fetched_at": "2026-11-01T11:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Prediction: Murder",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "36 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Alma Murder",
       "time": "5:29 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Truck Stop",
+      "time": "6:22 PM",
       "remaining": null,
       "status": "upcoming"
     }
