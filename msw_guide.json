@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-01T12:55:06-05:00",
+  "fetched_at": "2026-11-01T13:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Something Borrowed, Someone Blue",
+    "title": "Weave a Tangled Web",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Weave a Tangled Web",
-      "time": "1:00 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Search for Peter Kerry",
       "time": "1:54 PM",
