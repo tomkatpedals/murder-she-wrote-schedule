@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T21:25:05-04:00",
+  "fetched_at": "2026-10-31T21:30:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Curse of the Daanau",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "Showdown in Saskatchewan",
       "time": "2:16 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Deadpan",
+      "time": "3:10 AM",
       "remaining": null,
       "status": "upcoming"
     }
