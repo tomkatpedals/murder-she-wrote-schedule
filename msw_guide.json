@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T06:55:06-05:00",
+  "fetched_at": "2026-11-01T07:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mr. Penroy's Vacation",
     "time": null,
-    "remaining": "42 min left",
+    "remaining": "37 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Weave a Tangled Web",
       "time": "1:00 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Search for Peter Kerry",
+      "time": "1:54 PM",
       "remaining": null,
       "status": "upcoming"
     }
