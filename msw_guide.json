@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-10-31T23:30:05-04:00",
+  "fetched_at": "2026-10-31T23:35:06-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder Through the Looking Glass",
+    "title": "A Very Good Year for Murder",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Very Good Year for Murder",
-      "time": "11:35 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Benedict Arnold Slipped Here",
       "time": "12:29 AM",
