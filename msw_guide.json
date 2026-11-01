@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T08:20:06-05:00",
+  "fetched_at": "2026-11-01T08:25:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Snow White, Blood Red",
     "time": null,
-    "remaining": "11 min left",
+    "remaining": "6 min left",
     "status": "now"
   },
   "upcoming": [
