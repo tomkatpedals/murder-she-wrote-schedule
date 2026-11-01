@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-01T01:40:06-04:00",
+  "fetched_at": "2026-11-01T01:45:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Just Another Fish Story",
     "time": null,
-    "remaining": "1hr 35min left",
+    "remaining": "1hr 30min left",
     "status": "now"
   },
   "upcoming": [
