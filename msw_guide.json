@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-31T22:55:06-04:00",
+  "fetched_at": "2026-10-31T23:00:05-04:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder Through the Looking Glass",
     "time": null,
-    "remaining": "39 min left",
+    "remaining": "34 min left",
     "status": "now"
   },
   "upcoming": [
@@ -42,6 +42,12 @@
     {
       "title": "The Body Politic",
       "time": "4:04 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "J.B. ... As in Jailbird",
+      "time": "4:57 AM",
       "remaining": null,
       "status": "upcoming"
     }
