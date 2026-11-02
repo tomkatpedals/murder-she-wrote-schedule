@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-02T06:15:05-05:00",
+  "fetched_at": "2026-11-02T06:20:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Night of the Tarantula",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
