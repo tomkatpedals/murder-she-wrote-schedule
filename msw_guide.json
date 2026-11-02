@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-02T07:25:06-05:00",
+  "fetched_at": "2026-11-02T07:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "When the Fat Lady Sings",
     "time": null,
-    "remaining": "24 min left",
+    "remaining": "19 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Fixer Upper",
       "time": "1:13 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Big Show of 1965",
+      "time": "2:07 PM",
       "remaining": null,
       "status": "upcoming"
     }
