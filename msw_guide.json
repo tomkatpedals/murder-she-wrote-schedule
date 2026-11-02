@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-02T14:25:07-05:00",
+  "fetched_at": "2026-11-02T14:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Big Show of 1965",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Trials & Tribulations",
       "time": "8:23 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Deadly Misunderstanding",
+      "time": "9:17 PM",
       "remaining": null,
       "status": "upcoming"
     }
