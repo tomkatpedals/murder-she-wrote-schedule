@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-02T16:25:05-05:00",
+  "fetched_at": "2026-11-02T16:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "O'Malley's Luck",
     "time": null,
-    "remaining": "23 min left",
+    "remaining": "18 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "See You in Court, Baby",
       "time": "10:10 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Hannigan's Wake",
+      "time": "11:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
