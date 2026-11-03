@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-03T16:25:06-05:00",
+  "fetched_at": "2026-11-03T16:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Bite the Big Apple",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "A Killing in Vegas",
       "time": "10:12 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Committee",
+      "time": "11:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
