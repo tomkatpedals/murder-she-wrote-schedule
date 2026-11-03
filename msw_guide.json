@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-03T09:25:05-05:00",
+  "fetched_at": "2026-11-03T09:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Taxman Cometh",
     "time": null,
-    "remaining": "23 min left",
+    "remaining": "18 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Skinny According to Nick Cullhane",
       "time": "3:11 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Bite the Big Apple",
+      "time": "4:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
