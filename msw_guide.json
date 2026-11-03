@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-03T04:25:06-05:00",
+  "fetched_at": "2026-11-03T04:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Ballad for a Blue Lady",
+    "title": "Murder in F Sharp",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder in F Sharp",
-      "time": "4:26 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Family Doctor",
       "time": "5:20 AM",
