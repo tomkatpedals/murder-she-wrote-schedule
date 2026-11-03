@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-03T02:55:06-05:00",
+  "fetched_at": "2026-11-03T03:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Great Twain Robbery",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Taxman Cometh",
       "time": "8:56 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "From the Horse's Mouth",
+      "time": "9:49 AM",
       "remaining": null,
       "status": "upcoming"
     }
