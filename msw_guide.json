@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-03T00:25:06-05:00",
+  "fetched_at": "2026-11-03T00:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Family Jewels",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Suspicion of Murder",
       "time": "6:14 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Moving Violation",
+      "time": "7:08 AM",
       "remaining": null,
       "status": "upcoming"
     }
