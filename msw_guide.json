@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-02T19:25:05-05:00",
+  "fetched_at": "2026-11-02T19:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Szechuan Dragon",
+    "title": "The Sicilian Encounter",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Sicilian Encounter",
-      "time": "7:30 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Trials & Tribulations",
       "time": "8:23 PM",
