@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-03T02:35:06-05:00",
+  "fetched_at": "2026-11-03T02:40:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Return of Preston Giles",
+    "title": "The Great Twain Robbery",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Great Twain Robbery",
-      "time": "2:38 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Ballad for a Blue Lady",
       "time": "3:33 AM",
