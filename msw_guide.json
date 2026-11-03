@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-03T01:25:06-05:00",
+  "fetched_at": "2026-11-03T01:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Body to Die For",
     "time": null,
-    "remaining": "19 min left",
+    "remaining": "14 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Moving Violation",
       "time": "7:08 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Who Killed J.B. Fletcher?",
+      "time": "8:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
