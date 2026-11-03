@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-03T00:50:05-05:00",
+  "fetched_at": "2026-11-03T00:55:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Family Jewels",
+    "title": "A Body to Die For",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Body to Die For",
-      "time": "12:51 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Return of Preston Giles",
       "time": "1:45 AM",
