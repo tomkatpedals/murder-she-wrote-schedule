@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-04T06:55:05-05:00",
+  "fetched_at": "2026-11-04T07:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "To the Last Will I Grapple With Thee",
+    "title": "Programmed for Murder",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Programmed for Murder",
-      "time": "6:57 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Day of the Dead",
       "time": "7:50 AM",
@@ -54,6 +48,12 @@
     {
       "title": "The Mole",
       "time": "1:06 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Wind Around the Tower",
+      "time": "1:59 PM",
       "remaining": null,
       "status": "upcoming"
     }
