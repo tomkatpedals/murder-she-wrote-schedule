@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-04T14:05:05-05:00",
+  "fetched_at": "2026-11-04T14:10:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Wind Around the Tower",
     "time": null,
-    "remaining": "47 min left",
+    "remaining": "42 min left",
     "status": "now"
   },
   "upcoming": [
