@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-04T02:30:06-05:00",
+  "fetched_at": "2026-11-04T02:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Witch's Curse",
+    "title": "Incident in Lot No. 7",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Incident in Lot No. 7",
-      "time": "2:33 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Monte Carlo Murders",
       "time": "3:26 AM",
