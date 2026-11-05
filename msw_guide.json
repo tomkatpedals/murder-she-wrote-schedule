@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-05T13:55:05-05:00",
+  "fetched_at": "2026-11-05T14:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder at a Discount",
     "time": null,
-    "remaining": "45 min left",
+    "remaining": "40 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Time to Die",
       "time": "7:56 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Dying Game",
+      "time": "8:47 PM",
       "remaining": null,
       "status": "upcoming"
     }
