@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-05T05:00:05-05:00",
+  "fetched_at": "2026-11-05T05:05:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Ship of Thieves",
+    "title": "The Survivor",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Survivor",
-      "time": "5:01 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Love's Deadly Desire",
       "time": "5:55 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Bloodlines",
       "time": "11:08 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Killing in Cork",
+      "time": "12:02 PM",
       "remaining": null,
       "status": "upcoming"
     }
