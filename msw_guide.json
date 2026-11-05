@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-05T03:25:05-05:00",
+  "fetched_at": "2026-11-05T03:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Lone Witness",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Phantom Killer",
       "time": "9:24 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Virtual Murder",
+      "time": "10:17 AM",
       "remaining": null,
       "status": "upcoming"
     }
