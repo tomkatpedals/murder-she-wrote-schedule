@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-05T01:25:05-05:00",
+  "fetched_at": "2026-11-05T01:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Threshold of Fear",
+    "title": "The Big Kill",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Big Kill",
-      "time": "1:30 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead to Rights",
       "time": "2:23 AM",
@@ -54,6 +48,12 @@
     {
       "title": "For Whom the Ball Tolls",
       "time": "7:39 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Legacy of Borbey House",
+      "time": "8:32 AM",
       "remaining": null,
       "status": "upcoming"
     }
