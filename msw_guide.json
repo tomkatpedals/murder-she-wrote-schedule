@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-05T18:10:05-05:00",
+  "fetched_at": "2026-11-05T18:15:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Portrait of Death",
+    "title": "Deadly Assets",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Deadly Assets",
-      "time": "6:12 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder on the Thirtieth Floor",
       "time": "7:04 PM",
