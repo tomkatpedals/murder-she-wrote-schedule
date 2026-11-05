@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-04T20:55:06-05:00",
+  "fetched_at": "2026-11-04T21:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Final Curtain",
     "time": null,
-    "remaining": "10 min left",
+    "remaining": "5 min left",
     "status": "now"
   },
   "upcoming": [
