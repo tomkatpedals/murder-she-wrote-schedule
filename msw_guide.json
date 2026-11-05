@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-04T21:55:05-05:00",
+  "fetched_at": "2026-11-04T22:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Double Jeopardy",
+    "title": "Dead Eye",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dead Eye",
-      "time": "9:59 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Killer Radio",
       "time": "10:52 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Ship of Thieves",
       "time": "4:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Survivor",
+      "time": "5:01 AM",
       "remaining": null,
       "status": "upcoming"
     }
