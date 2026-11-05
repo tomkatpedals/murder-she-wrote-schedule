@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-05T14:40:05-05:00",
+  "fetched_at": "2026-11-05T14:45:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder at a Discount",
+    "title": "Murder in White",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder in White",
-      "time": "2:41 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Northern Explosion",
       "time": "3:34 PM",
