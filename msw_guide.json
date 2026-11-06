@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-06T07:25:05-05:00",
+  "fetched_at": "2026-11-06T07:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Crimson Harvest",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Twice Dead",
       "time": "1:28 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Film Flam",
+      "time": "2:20 PM",
       "remaining": null,
       "status": "upcoming"
     }
