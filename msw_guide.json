@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T05:30:06-05:00",
+  "fetched_at": "2026-11-06T05:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Dear Deadly",
+    "title": "The Murder Channel",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Murder Channel",
-      "time": "5:31 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Fatal Paradise",
       "time": "6:24 AM",
