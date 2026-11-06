@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-06T14:20:05-05:00",
+  "fetched_at": "2026-11-06T14:25:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Film Flam",
     "time": null,
-    "remaining": "53 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
