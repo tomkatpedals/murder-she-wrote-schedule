@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-06T02:25:06-05:00",
+  "fetched_at": "2026-11-06T02:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "A Nest of Vipers",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "23 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder by Twos",
       "time": "8:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder of the Month Club",
+      "time": "9:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
