@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-05T19:00:05-05:00",
+  "fetched_at": "2026-11-05T19:05:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadly Assets",
+    "title": "Murder on the Thirtieth Floor",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder on the Thirtieth Floor",
-      "time": "7:04 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Time to Die",
       "time": "7:56 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Amsterdam Kill",
       "time": "1:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Nest of Vipers",
+      "time": "2:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
