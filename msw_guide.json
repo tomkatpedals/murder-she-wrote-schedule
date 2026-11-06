@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T10:45:06-05:00",
+  "fetched_at": "2026-11-06T10:50:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "An Egg to Die For",
+    "title": "The Scent of Murder",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Scent of Murder",
-      "time": "10:49 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death 'n Denial",
       "time": "11:41 AM",
