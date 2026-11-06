@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T06:20:06-05:00",
+  "fetched_at": "2026-11-06T06:25:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Murder Channel",
+    "title": "Fatal Paradise",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Fatal Paradise",
-      "time": "6:24 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Crimson Harvest",
       "time": "7:15 AM",
