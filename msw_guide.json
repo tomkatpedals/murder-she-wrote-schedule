@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T16:55:06-05:00",
+  "fetched_at": "2026-11-06T17:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dream Team",
+    "title": "School for Murder",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "School for Murder",
-      "time": "4:56 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Another Killing in Cork",
       "time": "5:50 PM",
@@ -54,6 +48,12 @@
     {
       "title": "The Secret of Gila Junction",
       "time": "11:07 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Nan's Ghost",
+      "time": "12:00 AM",
       "remaining": null,
       "status": "upcoming"
     }
