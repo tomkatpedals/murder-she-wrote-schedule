@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T07:10:06-05:00",
+  "fetched_at": "2026-11-06T07:15:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Fatal Paradise",
+    "title": "Crimson Harvest",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Crimson Harvest",
-      "time": "7:15 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder by Twos",
       "time": "8:09 AM",
