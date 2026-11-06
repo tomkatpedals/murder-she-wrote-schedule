@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-06T14:25:05-05:00",
+  "fetched_at": "2026-11-06T14:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Film Flam",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Home Care",
       "time": "8:27 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Nailed",
+      "time": "9:20 PM",
       "remaining": null,
       "status": "upcoming"
     }
