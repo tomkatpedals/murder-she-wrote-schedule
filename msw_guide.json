@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-06T03:35:05-05:00",
+  "fetched_at": "2026-11-06T03:40:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "To Kill a Legend",
     "time": null,
-    "remaining": "12 min left",
+    "remaining": "7 min left",
     "status": "now"
   },
   "upcoming": [
