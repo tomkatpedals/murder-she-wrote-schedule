@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T23:55:06-05:00",
+  "fetched_at": "2026-11-07T00:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Secret of Gila Junction",
+    "title": "Nan's Ghost",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Nan's Ghost",
-      "time": "12:00 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Nan's Ghost",
       "time": "12:53 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Death Goes Double Platinum",
       "time": "6:03 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder in Tempo",
+      "time": "6:54 AM",
       "remaining": null,
       "status": "upcoming"
     }
