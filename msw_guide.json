@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T21:15:06-05:00",
+  "fetched_at": "2026-11-06T21:20:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Home Care",
+    "title": "Nailed",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Nailed",
-      "time": "9:20 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Quaking in Aspen",
       "time": "10:13 PM",
