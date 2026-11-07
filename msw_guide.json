@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-07T13:00:05-05:00",
+  "fetched_at": "2026-11-07T13:05:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Race to Death",
     "time": null,
-    "remaining": "50 min left",
+    "remaining": "45 min left",
     "status": "now"
   },
   "upcoming": [
