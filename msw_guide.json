@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-07T02:35:06-05:00",
+  "fetched_at": "2026-11-07T02:40:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Shooting in Rome",
+    "title": "Deadly Bidding",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Deadly Bidding",
-      "time": "2:37 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Frozen Stiff",
       "time": "3:29 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Murder Among Friends",
       "time": "8:39 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Something Foul in Flappieville",
+      "time": "9:31 AM",
       "remaining": null,
       "status": "upcoming"
     }
