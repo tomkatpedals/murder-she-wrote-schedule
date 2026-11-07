@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-06T23:05:05-05:00",
+  "fetched_at": "2026-11-06T23:10:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Quaking in Aspen",
+    "title": "The Secret of Gila Junction",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Secret of Gila Junction",
-      "time": "11:07 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Nan's Ghost",
       "time": "12:00 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Kendo Killing",
       "time": "5:12 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death Goes Double Platinum",
+      "time": "6:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
