@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-07T00:50:05-05:00",
+  "fetched_at": "2026-11-07T00:55:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Nan's Ghost",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Nan's Ghost",
-      "time": "12:53 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Shooting in Rome",
       "time": "1:44 AM",
