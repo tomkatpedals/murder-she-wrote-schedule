@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-07T22:25:05-05:00",
+  "fetched_at": "2026-11-07T22:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Wrote: The Celtic Riddle",
     "time": null,
-    "remaining": "42 min left",
+    "remaining": "37 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "O'Malley's Luck",
       "time": "4:30 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Always a Thief",
+      "time": "5:24 AM",
       "remaining": null,
       "status": "upcoming"
     }
