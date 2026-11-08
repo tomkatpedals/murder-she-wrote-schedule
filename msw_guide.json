@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-07T21:25:05-05:00",
+  "fetched_at": "2026-11-07T21:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder, She Wrote: The Last Free Man",
+    "title": "Murder, She Wrote: The Celtic Riddle",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "1hr 37min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder, She Wrote: The Celtic Riddle",
-      "time": "9:28 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Good-bye Charlie",
       "time": "11:08 PM",
@@ -48,6 +42,12 @@
     {
       "title": "Murder -- According to Maggie",
       "time": "3:35 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "O'Malley's Luck",
+      "time": "4:30 AM",
       "remaining": null,
       "status": "upcoming"
     }
