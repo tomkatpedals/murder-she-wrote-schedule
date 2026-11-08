@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-08T16:30:06-05:00",
+  "fetched_at": "2026-11-08T16:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Ballad for a Blue Lady",
     "time": null,
-    "remaining": "30 min left",
+    "remaining": "25 min left",
     "status": "now"
   },
   "upcoming": [
