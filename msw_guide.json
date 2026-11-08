@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-08T05:55:05-05:00",
+  "fetched_at": "2026-11-08T06:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Always a Thief",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Hannigan's Wake",
       "time": "11:39 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Family Jewels",
+      "time": "12:32 PM",
       "remaining": null,
       "status": "upcoming"
     }
