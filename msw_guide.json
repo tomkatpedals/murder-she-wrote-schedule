@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-08T00:00:06-05:00",
+  "fetched_at": "2026-11-08T00:05:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Good-bye Charlie",
+    "title": "If the Shoe Fits",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "If the Shoe Fits",
-      "time": "12:01 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "How to Make a Killing Without Really Trying",
       "time": "12:55 AM",
