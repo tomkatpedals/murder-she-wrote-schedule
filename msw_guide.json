@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-08T18:55:06-05:00",
+  "fetched_at": "2026-11-08T19:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Suspicion of Murder",
     "time": null,
-    "remaining": "47 min left",
+    "remaining": "42 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Thursday's Child",
       "time": "1:05 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder, Plain and Simple",
+      "time": "1:59 AM",
       "remaining": null,
       "status": "upcoming"
     }
