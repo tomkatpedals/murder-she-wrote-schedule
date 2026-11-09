@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-09T04:35:06-05:00",
+  "fetched_at": "2026-11-09T04:40:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Skinny According to Nick Cullhane",
+    "title": "Bite the Big Apple",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Bite the Big Apple",
-      "time": "4:40 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Night Fears",
       "time": "5:32 AM",
