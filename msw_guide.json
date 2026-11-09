@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-09T05:25:06-05:00",
+  "fetched_at": "2026-11-09T05:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Bite the Big Apple",
     "time": null,
-    "remaining": "6 min left",
+    "remaining": "1 min left",
     "status": "now"
   },
   "upcoming": [
