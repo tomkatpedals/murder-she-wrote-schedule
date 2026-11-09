@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-09T05:30:06-05:00",
+  "fetched_at": "2026-11-09T05:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Bite the Big Apple",
+    "title": "Night Fears",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Night Fears",
-      "time": "5:32 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Unauthorized Obituary",
       "time": "6:25 AM",
@@ -54,6 +48,12 @@
     {
       "title": "The Committee",
       "time": "11:39 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The List of Uri Lermentov",
+      "time": "12:32 PM",
       "remaining": null,
       "status": "upcoming"
     }
