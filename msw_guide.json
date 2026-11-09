@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-09T02:50:06-05:00",
+  "fetched_at": "2026-11-09T02:55:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder, Plain and Simple",
+    "title": "Tainted Lady",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Tainted Lady",
-      "time": "2:53 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Skinny According to Nick Cullhane",
       "time": "3:46 AM",
