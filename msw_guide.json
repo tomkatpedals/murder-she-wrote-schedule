@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-09T08:05:06-05:00",
+  "fetched_at": "2026-11-09T08:10:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Thicker Than Water",
+    "title": "Lines of Excellence",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Lines of Excellence",
-      "time": "8:10 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Judge Not",
       "time": "9:02 AM",
