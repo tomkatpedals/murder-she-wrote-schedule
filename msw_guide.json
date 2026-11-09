@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-08T21:15:06-05:00",
+  "fetched_at": "2026-11-08T21:35:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Who Killed J.B. Fletcher?",
+    "title": "The Taxman Cometh",
     "time": null,
-    "remaining": "15 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Taxman Cometh",
-      "time": "9:31 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "From the Horse's Mouth",
       "time": "10:24 PM",
