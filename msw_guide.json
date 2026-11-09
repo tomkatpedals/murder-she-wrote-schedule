@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-09T16:45:05-05:00",
+  "fetched_at": "2026-11-09T16:50:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Monte Carlo Murders",
     "time": null,
-    "remaining": "8 min left",
+    "remaining": "3 min left",
     "status": "now"
   },
   "upcoming": [
