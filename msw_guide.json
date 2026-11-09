@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-09T12:30:06-05:00",
+  "fetched_at": "2026-11-09T12:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Committee",
+    "title": "The List of Uri Lermentov",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The List of Uri Lermentov",
-      "time": "12:32 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Danse Diabolique",
       "time": "1:25 PM",
@@ -54,6 +48,12 @@
     {
       "title": "To the Last Will I Grapple With Thee",
       "time": "6:41 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Programmed for Murder",
+      "time": "7:32 PM",
       "remaining": null,
       "status": "upcoming"
     }
