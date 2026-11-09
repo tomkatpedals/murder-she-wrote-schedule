@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-09T16:25:06-05:00",
+  "fetched_at": "2026-11-09T16:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Monte Carlo Murders",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "23 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Badge of Honor",
       "time": "10:11 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder on Madison Avenue",
+      "time": "11:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
