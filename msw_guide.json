@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-09T17:40:05-05:00",
+  "fetched_at": "2026-11-09T17:45:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Tinker, Tailor, Liar, Thief",
     "time": null,
-    "remaining": "6 min left",
+    "remaining": "1 min left",
     "status": "now"
   },
   "upcoming": [
