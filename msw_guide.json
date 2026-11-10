@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-10T18:25:05-05:00",
+  "fetched_at": "2026-11-10T18:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Survivor",
+    "title": "Love's Deadly Desire",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Love's Deadly Desire",
-      "time": "6:30 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death in Hong Kong",
       "time": "7:22 PM",
@@ -54,6 +48,12 @@
     {
       "title": "A Killing in Cork",
       "time": "12:37 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Love and Hate in Cabot Cove",
+      "time": "1:29 AM",
       "remaining": null,
       "status": "upcoming"
     }
