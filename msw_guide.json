@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-10T14:55:05-05:00",
+  "fetched_at": "2026-11-10T15:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Big Kill",
+    "title": "Dead to Rights",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Dead to Rights",
-      "time": "2:58 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Lone Witness",
       "time": "3:51 PM",
@@ -54,6 +48,12 @@
     {
       "title": "The Legacy of Borbey House",
       "time": "9:07 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Phantom Killer",
+      "time": "9:59 PM",
       "remaining": null,
       "status": "upcoming"
     }
