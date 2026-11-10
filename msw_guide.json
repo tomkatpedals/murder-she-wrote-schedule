@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-10T13:10:05-05:00",
+  "fetched_at": "2026-11-10T13:15:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Petrified Florist",
+    "title": "Threshold of Fear",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Threshold of Fear",
-      "time": "1:12 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Big Kill",
       "time": "2:05 PM",
