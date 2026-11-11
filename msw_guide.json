@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-11T11:55:06-05:00",
+  "fetched_at": "2026-11-11T12:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Roadkill",
+    "title": "A Murderous Muse",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Murderous Muse",
-      "time": "11:59 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Wheel of Death",
       "time": "12:52 PM",
@@ -54,6 +48,12 @@
     {
       "title": "The Murder Channel",
       "time": "6:06 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Fatal Paradise",
+      "time": "6:59 PM",
       "remaining": null,
       "status": "upcoming"
     }
