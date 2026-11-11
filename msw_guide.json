@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-11T15:25:05-05:00",
+  "fetched_at": "2026-11-11T15:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "A Nest of Vipers",
+    "title": "To Kill a Legend",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "To Kill a Legend",
-      "time": "3:29 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Death in Hawaii",
       "time": "4:23 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Murder of the Month Club",
       "time": "9:38 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "An Egg to Die For",
+      "time": "10:31 PM",
       "remaining": null,
       "status": "upcoming"
     }
