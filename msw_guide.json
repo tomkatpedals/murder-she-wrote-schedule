@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-11T17:25:06-05:00",
+  "fetched_at": "2026-11-11T17:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Dear Deadly",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Scent of Murder",
       "time": "11:25 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death 'n Denial",
+      "time": "12:16 AM",
       "remaining": null,
       "status": "upcoming"
     }
