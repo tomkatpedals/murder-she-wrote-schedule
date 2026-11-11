@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-11T13:55:05-05:00",
+  "fetched_at": "2026-11-11T14:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Amsterdam Kill",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "36 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Crimson Harvest",
       "time": "7:50 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder by Twos",
+      "time": "8:44 PM",
       "remaining": null,
       "status": "upcoming"
     }
