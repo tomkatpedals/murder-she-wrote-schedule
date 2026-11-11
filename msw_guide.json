@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-10T21:55:05-05:00",
+  "fetched_at": "2026-11-10T22:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Legacy of Borbey House",
+    "title": "The Phantom Killer",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Phantom Killer",
-      "time": "9:59 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "A Virtual Murder",
       "time": "10:52 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Northern Explosion",
       "time": "4:09 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Proof in the Pudding",
+      "time": "5:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
