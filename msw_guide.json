@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-10T20:25:06-05:00",
+  "fetched_at": "2026-11-10T20:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "For Whom the Ball Tolls",
     "time": null,
-    "remaining": "41 min left",
+    "remaining": "36 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder at a Discount",
       "time": "2:23 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder in White",
+      "time": "3:16 AM",
       "remaining": null,
       "status": "upcoming"
     }
