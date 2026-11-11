@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-10T20:30:06-05:00",
+  "fetched_at": "2026-11-10T20:35:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "For Whom the Ball Tolls",
     "time": null,
-    "remaining": "36 min left",
+    "remaining": "31 min left",
     "status": "now"
   },
   "upcoming": [
