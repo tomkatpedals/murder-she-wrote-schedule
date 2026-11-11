@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-11T04:25:06-05:00",
+  "fetched_at": "2026-11-11T04:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Northern Explosion",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Trouble With Seth",
       "time": "10:15 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Roadkill",
+      "time": "11:07 AM",
       "remaining": null,
       "status": "upcoming"
     }
