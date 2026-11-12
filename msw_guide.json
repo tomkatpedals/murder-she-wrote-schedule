@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-12T01:10:06-05:00",
+  "fetched_at": "2026-11-12T01:15:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in High-C",
     "time": null,
-    "remaining": "52 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
