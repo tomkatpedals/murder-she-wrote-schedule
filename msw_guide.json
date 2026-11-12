@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-12T09:00:05-05:00",
+  "fetched_at": "2026-11-12T09:05:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Big Easy Murder",
+    "title": "Home Care",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Home Care",
-      "time": "9:02 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Nailed",
       "time": "9:55 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Deadly Bidding",
       "time": "3:12 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Frozen Stiff",
+      "time": "4:04 PM",
       "remaining": null,
       "status": "upcoming"
     }
