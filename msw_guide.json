@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-12T10:45:06-05:00",
+  "fetched_at": "2026-11-12T10:50:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Nailed",
+    "title": "A Quaking in Aspen",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "A Quaking in Aspen",
-      "time": "10:48 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "The Secret of Gila Junction",
       "time": "11:42 AM",
