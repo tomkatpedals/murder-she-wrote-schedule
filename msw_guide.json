@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-11T18:55:06-05:00",
+  "fetched_at": "2026-11-11T19:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Murder Channel",
+    "title": "Fatal Paradise",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Fatal Paradise",
-      "time": "6:59 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Crimson Harvest",
       "time": "7:50 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Murder in High-C",
       "time": "1:10 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Twice Dead",
+      "time": "2:03 AM",
       "remaining": null,
       "status": "upcoming"
     }
