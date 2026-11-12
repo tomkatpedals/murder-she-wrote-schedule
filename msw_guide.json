@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-11T21:35:05-05:00",
+  "fetched_at": "2026-11-11T21:40:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder by Twos",
+    "title": "Murder of the Month Club",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder of the Month Club",
-      "time": "9:38 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "An Egg to Die For",
       "time": "10:31 PM",
