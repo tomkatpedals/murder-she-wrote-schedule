@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-13T15:15:06-05:00",
+  "fetched_at": "2026-11-13T15:20:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Birds of a Feather",
+    "title": "Hooray for Homicide",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Hooray for Homicide",
-      "time": "3:17 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "It's a Dog's Life",
       "time": "4:11 PM",
