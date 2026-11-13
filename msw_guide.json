@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T15:25:05-05:00",
+  "fetched_at": "2026-11-13T15:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Hooray for Homicide",
     "time": null,
-    "remaining": "45 min left",
+    "remaining": "40 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Capitol Offense",
       "time": "9:37 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Broadway Malady",
+      "time": "10:31 PM",
       "remaining": null,
       "status": "upcoming"
     }
