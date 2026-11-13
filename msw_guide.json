@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T05:55:06-05:00",
+  "fetched_at": "2026-11-13T06:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Wrote: South by Southwest",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -30,6 +30,12 @@
     {
       "title": "The Murder of Sherlock Holmes",
       "time": "11:43 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Murder of Sherlock Holmes",
+      "time": "12:36 PM",
       "remaining": null,
       "status": "upcoming"
     }
