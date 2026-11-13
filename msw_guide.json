@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-13T08:20:05-05:00",
+  "fetched_at": "2026-11-13T08:25:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder She Wrote: A Story to Die For",
+    "title": "Murder, She Wrote: The Last Free Man",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "1hr 37min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder, She Wrote: The Last Free Man",
-      "time": "8:24 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder, She Wrote: The Celtic Riddle",
       "time": "10:03 AM",
