@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-13T17:00:06-05:00",
+  "fetched_at": "2026-11-13T17:05:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "It's a Dog's Life",
+    "title": "Lovers and Other Killers",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "54 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Lovers and Other Killers",
-      "time": "5:05 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Hit, Run and Homicide",
       "time": "6:00 PM",
