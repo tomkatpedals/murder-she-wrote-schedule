@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T08:55:05-05:00",
+  "fetched_at": "2026-11-13T09:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Wrote: The Last Free Man",
     "time": null,
-    "remaining": "1hr 7min left",
+    "remaining": "1hr 2min left",
     "status": "now"
   },
   "upcoming": [
