@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T05:45:06-05:00",
+  "fetched_at": "2026-11-13T05:50:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Wrote: South by Southwest",
     "time": null,
-    "remaining": "58 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
