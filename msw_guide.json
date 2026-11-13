@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-13T12:35:05-05:00",
+  "fetched_at": "2026-11-13T12:40:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Murder of Sherlock Holmes",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Murder of Sherlock Holmes",
-      "time": "12:36 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Deadly Lady",
       "time": "1:28 PM",
