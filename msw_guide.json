@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T08:25:06-05:00",
+  "fetched_at": "2026-11-13T08:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder, She Wrote: The Last Free Man",
     "time": null,
-    "remaining": "1hr 37min left",
+    "remaining": "1hr 32min left",
     "status": "now"
   },
   "upcoming": [
@@ -36,6 +36,12 @@
     {
       "title": "Birds of a Feather",
       "time": "2:23 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Hooray for Homicide",
+      "time": "3:17 PM",
       "remaining": null,
       "status": "upcoming"
     }
