@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-12T20:25:05-05:00",
+  "fetched_at": "2026-11-12T20:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Dark Side of the Door",
     "time": null,
-    "remaining": "48 min left",
+    "remaining": "43 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "What You Don't Know Can Kill You",
       "time": "2:26 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Mrs. Parker's Revenge",
+      "time": "3:18 AM",
       "remaining": null,
       "status": "upcoming"
     }
