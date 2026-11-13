@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-12T20:00:06-05:00",
+  "fetched_at": "2026-11-12T20:05:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in Tempo",
     "time": null,
-    "remaining": "20 min left",
+    "remaining": "15 min left",
     "status": "now"
   },
   "upcoming": [
