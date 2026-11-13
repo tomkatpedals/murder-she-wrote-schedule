@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-12T22:55:06-05:00",
+  "fetched_at": "2026-11-12T23:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Something Foul in Flappieville",
+    "title": "Track of a Soldier",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Track of a Soldier",
-      "time": "10:58 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Evidence of Malice",
       "time": "11:50 PM",
@@ -48,6 +42,12 @@
     {
       "title": "Death by Demographics",
       "time": "4:10 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder, She Wrote: South by Southwest",
+      "time": "5:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
