@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-13T23:20:06-05:00",
+  "fetched_at": "2026-11-13T23:25:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Broadway Malady",
+    "title": "Murder to a Jazz Beat",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "54 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder to a Jazz Beat",
-      "time": "11:25 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "My Johnny Lies Over the Ocean",
       "time": "12:20 AM",
