@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T20:25:05-05:00",
+  "fetched_at": "2026-11-13T20:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Death Takes a Curtain Call",
     "time": null,
-    "remaining": "17 min left",
+    "remaining": "12 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Tough Guys Don't Die",
       "time": "2:08 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Sudden Death",
+      "time": "3:02 AM",
       "remaining": null,
       "status": "upcoming"
     }
