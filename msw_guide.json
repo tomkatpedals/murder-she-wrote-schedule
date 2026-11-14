@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-14T05:45:06-05:00",
+  "fetched_at": "2026-11-14T05:50:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder Takes the Bus",
+    "title": "Armed Response",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Armed Response",
-      "time": "5:46 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder at the Oasis",
       "time": "6:40 AM",
