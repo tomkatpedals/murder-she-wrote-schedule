@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-14T06:55:06-05:00",
+  "fetched_at": "2026-11-14T07:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder at the Oasis",
     "time": null,
-    "remaining": "38 min left",
+    "remaining": "33 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Reflections of the Mind",
       "time": "12:59 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Lady in the Lake",
+      "time": "1:53 PM",
       "remaining": null,
       "status": "upcoming"
     }
