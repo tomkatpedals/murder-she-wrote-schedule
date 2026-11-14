@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-14T08:25:05-05:00",
+  "fetched_at": "2026-11-14T08:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Funeral at Fifty-Mile",
+    "title": "Widow, Weep for Me",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Widow, Weep for Me",
-      "time": "8:29 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Joshua Peabody Died Here ... Possibly",
       "time": "9:23 AM",
