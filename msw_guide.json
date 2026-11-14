@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-13T22:55:05-05:00",
+  "fetched_at": "2026-11-13T23:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Broadway Malady",
     "time": null,
-    "remaining": "29 min left",
+    "remaining": "24 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder Takes the Bus",
       "time": "4:51 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Armed Response",
+      "time": "5:46 AM",
       "remaining": null,
       "status": "upcoming"
     }
