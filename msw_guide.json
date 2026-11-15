@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-14T22:25:05-05:00",
+  "fetched_at": "2026-11-14T22:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in the Electric Cathedral",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Death Stalks the Big Top Part 1",
       "time": "4:15 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Death Stalks the Big Top Part 2",
+      "time": "5:08 AM",
       "remaining": null,
       "status": "upcoming"
     }
