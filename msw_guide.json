@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-15T01:55:05-05:00",
+  "fetched_at": "2026-11-15T02:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Menace, Anyone?",
     "time": null,
-    "remaining": "31 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Corned Beef and Carnage",
       "time": "7:49 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Dead Man's Gold",
+      "time": "8:43 AM",
       "remaining": null,
       "status": "upcoming"
     }
