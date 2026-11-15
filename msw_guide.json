@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-15T07:25:06-05:00",
+  "fetched_at": "2026-11-15T07:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "One White Rose for Death",
     "time": null,
-    "remaining": "23 min left",
+    "remaining": "18 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Night of the Headless Horseman",
       "time": "1:11 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Corpse Flew First Class",
+      "time": "2:05 PM",
       "remaining": null,
       "status": "upcoming"
     }
