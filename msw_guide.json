@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-15T19:45:05-05:00",
+  "fetched_at": "2026-11-15T19:50:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Simon Says, Color Me Dead",
     "time": null,
-    "remaining": "9 min left",
+    "remaining": "4 min left",
     "status": "now"
   },
   "upcoming": [
