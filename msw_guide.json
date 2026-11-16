@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-16T16:30:05-05:00",
+  "fetched_at": "2026-11-16T16:35:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Benedict Arnold Slipped Here",
+    "title": "Just Another Fish Story",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "48 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Just Another Fish Story",
-      "time": "4:31 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Showdown in Saskatchewan",
       "time": "5:24 PM",
