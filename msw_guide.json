@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-16T06:35:06-05:00",
+  "fetched_at": "2026-11-16T06:40:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "If It's Thursday, It Must Be Beverly",
+    "title": "Steal Me a Story",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Steal Me a Story",
-      "time": "6:40 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Trouble in Eden",
       "time": "7:33 AM",
