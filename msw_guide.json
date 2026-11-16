@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-16T04:50:05-05:00",
+  "fetched_at": "2026-11-16T04:55:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Way to Dusty Death",
+    "title": "It Runs in the Family",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "It Runs in the Family",
-      "time": "4:52 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "If It's Thursday, It Must Be Beverly",
       "time": "5:46 AM",
