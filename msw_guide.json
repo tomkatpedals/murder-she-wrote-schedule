@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-17T01:55:05-05:00",
+  "fetched_at": "2026-11-17T02:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Last Flight of the Dixie Damsel",
     "time": null,
-    "remaining": "25 min left",
+    "remaining": "20 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "From Russia, with Blood",
       "time": "7:43 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Alma Murder",
+      "time": "8:37 AM",
       "remaining": null,
       "status": "upcoming"
     }
