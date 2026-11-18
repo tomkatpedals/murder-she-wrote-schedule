@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-17T20:25:05-05:00",
+  "fetched_at": "2026-11-17T20:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Dead Letter",
     "time": null,
-    "remaining": "46 min left",
+    "remaining": "41 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "If the Shoe Fits",
       "time": "2:34 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "How to Make a Killing Without Really Trying",
+      "time": "3:28 AM",
       "remaining": null,
       "status": "upcoming"
     }
