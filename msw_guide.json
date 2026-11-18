@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-18T02:55:05-05:00",
+  "fetched_at": "2026-11-18T03:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "If the Shoe Fits",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Shear Madness",
       "time": "8:50 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Szechuan Dragon",
+      "time": "9:45 AM",
       "remaining": null,
       "status": "upcoming"
     }
