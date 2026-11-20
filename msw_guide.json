@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-20T06:25:06-05:00",
+  "fetched_at": "2026-11-20T06:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "The Dead File",
     "time": null,
-    "remaining": "28 min left",
+    "remaining": "23 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Double Jeopardy",
       "time": "12:15 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Dead Eye",
+      "time": "1:07 PM",
       "remaining": null,
       "status": "upcoming"
     }
