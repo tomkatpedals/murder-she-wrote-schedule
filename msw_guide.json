@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-20T02:55:06-05:00",
+  "fetched_at": "2026-11-20T03:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Murder in Milan",
     "time": null,
-    "remaining": "26 min left",
+    "remaining": "21 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "The Classic Murder",
       "time": "8:42 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "A Christmas Secret",
+      "time": "9:35 AM",
       "remaining": null,
       "status": "upcoming"
     }
