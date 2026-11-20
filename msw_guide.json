@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-20T13:25:05-05:00",
+  "fetched_at": "2026-11-20T13:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Dead Eye",
     "time": null,
-    "remaining": "34 min left",
+    "remaining": "29 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Ship of Thieves",
       "time": "7:18 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Survivor",
+      "time": "8:09 PM",
       "remaining": null,
       "status": "upcoming"
     }
