@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-20T12:10:06-05:00",
+  "fetched_at": "2026-11-20T12:15:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Final Curtain",
+    "title": "Double Jeopardy",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Double Jeopardy",
-      "time": "12:15 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Dead Eye",
       "time": "1:07 PM",
