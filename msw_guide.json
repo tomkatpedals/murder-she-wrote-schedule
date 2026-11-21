@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-20T19:25:05-05:00",
+  "fetched_at": "2026-11-20T19:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Ship of Thieves",
     "time": null,
-    "remaining": "43 min left",
+    "remaining": "38 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "A Virtual Murder",
       "time": "1:25 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Bloodlines",
+      "time": "2:16 AM",
       "remaining": null,
       "status": "upcoming"
     }
