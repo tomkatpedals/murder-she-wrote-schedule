@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-21T12:45:06-05:00",
+  "fetched_at": "2026-11-21T12:50:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "The Dying Game",
+    "title": "The Trouble With Seth",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "49 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "The Trouble With Seth",
-      "time": "12:48 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Roadkill",
       "time": "1:40 PM",
