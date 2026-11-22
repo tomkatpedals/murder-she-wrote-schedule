@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-22T08:55:05-05:00",
+  "fetched_at": "2026-11-22T09:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "School for Murder",
+    "title": "Another Killing in Cork",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Another Killing in Cork",
-      "time": "8:58 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Game, Set, Murder",
       "time": "9:51 AM",
@@ -54,6 +48,12 @@
     {
       "title": "Nan's Ghost",
       "time": "3:08 PM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Nan's Ghost",
+      "time": "4:01 PM",
       "remaining": null,
       "status": "upcoming"
     }
