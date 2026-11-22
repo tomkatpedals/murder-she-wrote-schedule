@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-22T18:35:05-05:00",
+  "fetched_at": "2026-11-22T18:40:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Deadly Bidding",
+    "title": "Frozen Stiff",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Frozen Stiff",
-      "time": "6:37 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Unwilling Witness",
       "time": "7:28 PM",
@@ -54,6 +48,12 @@
     {
       "title": "Something Foul in Flappieville",
       "time": "12:39 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Track of a Soldier",
+      "time": "1:31 AM",
       "remaining": null,
       "status": "upcoming"
     }
