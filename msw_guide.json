@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-23T06:25:05-05:00",
+  "fetched_at": "2026-11-23T06:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mrs. Parker's Revenge",
     "time": null,
-    "remaining": "17 min left",
+    "remaining": "12 min left",
     "status": "now"
   },
   "upcoming": [
@@ -30,6 +30,12 @@
     {
       "title": "Murder, She Wrote: The Last Free Man",
       "time": "10:57 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Murder, She Wrote: The Celtic Riddle",
+      "time": "12:36 PM",
       "remaining": null,
       "status": "upcoming"
     }
