@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-23T09:15:05-05:00",
+  "fetched_at": "2026-11-23T09:20:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder, She Wrote: South by Southwest",
+    "title": "Murder She Wrote: A Story to Die For",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "1hr 36min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder She Wrote: A Story to Die For",
-      "time": "9:17 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder, She Wrote: The Last Free Man",
       "time": "10:57 AM",
