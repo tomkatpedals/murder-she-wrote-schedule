@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-23T01:30:06-05:00",
+  "fetched_at": "2026-11-23T01:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Something Foul in Flappieville",
+    "title": "Track of a Soldier",
     "time": null,
-    "remaining": "0 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Track of a Soldier",
-      "time": "1:31 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Evidence of Malice",
       "time": "2:23 AM",
