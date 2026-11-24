@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-24T09:10:06-05:00",
+  "fetched_at": "2026-11-24T09:15:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Armed Response",
+    "title": "Murder at the Oasis",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Murder at the Oasis",
-      "time": "9:13 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Funeral at Fifty-Mile",
       "time": "10:08 AM",
