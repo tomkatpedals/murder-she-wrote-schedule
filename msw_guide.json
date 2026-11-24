@@ -1,61 +1,12 @@
 {
-  "fetched_at": "2026-11-24T11:00:06-05:00",
+  "fetched_at": "2026-11-24T11:05:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Funeral at Fifty-Mile",
+    "title": "Widow, Weep for Me",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
-  "upcoming": [
-    {
-      "title": "Widow, Weep for Me",
-      "time": "11:02 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "Joshua Peabody Died Here ... Possibly",
-      "time": "11:56 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "Murder in the Afternoon",
-      "time": "12:50 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "School for Scandal",
-      "time": "1:44 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "Sing a Song of Murder",
-      "time": "2:38 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "Reflections of the Mind",
-      "time": "3:32 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "A Lady in the Lake",
-      "time": "4:26 PM",
-      "remaining": null,
-      "status": "upcoming"
-    },
-    {
-      "title": "Dead Heat",
-      "time": "5:20 PM",
-      "remaining": null,
-      "status": "upcoming"
-    }
-  ]
+  "upcoming": []
 }
