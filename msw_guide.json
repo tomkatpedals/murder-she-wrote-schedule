@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-24T10:05:05-05:00",
+  "fetched_at": "2026-11-24T10:10:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Murder at the Oasis",
+    "title": "Funeral at Fifty-Mile",
     "time": null,
-    "remaining": "2 min left",
+    "remaining": "51 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Funeral at Fifty-Mile",
-      "time": "10:08 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Widow, Weep for Me",
       "time": "11:02 AM",
