@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-24T06:25:06-05:00",
+  "fetched_at": "2026-11-24T06:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Sudden Death",
+    "title": "Footnote to Murder",
     "time": null,
-    "remaining": "4 min left",
+    "remaining": "53 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Footnote to Murder",
-      "time": "6:30 AM",
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Murder Takes the Bus",
       "time": "7:24 AM",
