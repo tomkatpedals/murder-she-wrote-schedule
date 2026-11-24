@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-24T03:25:06-05:00",
+  "fetched_at": "2026-11-24T03:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "My Johnny Lies Over the Ocean",
     "time": null,
-    "remaining": "21 min left",
+    "remaining": "16 min left",
     "status": "now"
   },
   "upcoming": [
@@ -48,6 +48,12 @@
     {
       "title": "Murder at the Oasis",
       "time": "9:13 AM",
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Funeral at Fifty-Mile",
+      "time": "10:08 AM",
       "remaining": null,
       "status": "upcoming"
     }
