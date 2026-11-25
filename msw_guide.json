@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-24T22:40:05-05:00",
+  "fetched_at": "2026-11-24T22:45:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Trial by Error",
+    "title": "Keep the Home Fries Burning",
     "time": null,
-    "remaining": "1 min left",
+    "remaining": "50 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Keep the Home Fries Burning",
-      "time": null,
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Powder Keg",
       "time": null,
