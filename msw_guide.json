@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-25T03:25:05-05:00",
+  "fetched_at": "2026-11-25T03:30:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Christopher Bundy - Died on Sunday",
     "time": null,
-    "remaining": "40 min left",
+    "remaining": "35 min left",
     "status": "now"
   },
   "upcoming": [
@@ -47,6 +47,12 @@
     },
     {
       "title": "One White Rose for Death",
+      "time": null,
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Corned Beef and Carnage",
       "time": null,
       "remaining": null,
       "status": "upcoming"
