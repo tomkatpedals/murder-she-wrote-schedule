@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-25T12:25:05-05:00",
+  "fetched_at": "2026-11-25T12:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Deadline for Murder",
     "time": null,
-    "remaining": "37 min left",
+    "remaining": "32 min left",
     "status": "now"
   },
   "upcoming": [
@@ -47,6 +47,12 @@
     },
     {
       "title": "Murder in a Minor Key",
+      "time": null,
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Bottom Line Is Murder",
       "time": null,
       "remaining": null,
       "status": "upcoming"
