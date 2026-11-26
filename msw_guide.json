@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-26T11:40:05-05:00",
+  "fetched_at": "2026-11-26T12:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Indian Giver",
+    "title": "Doom With a View",
     "time": null,
-    "remaining": "13 min left",
+    "remaining": "47 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Doom With a View",
-      "time": null,
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Who Threw the Barbitals in Mrs. Fletcher's Chowder?",
       "time": null,
