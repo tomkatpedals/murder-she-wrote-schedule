@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-26T05:30:06-05:00",
+  "fetched_at": "2026-11-26T05:35:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Witness for the Defense",
     "time": null,
-    "remaining": "7 min left",
+    "remaining": "2 min left",
     "status": "now"
   },
   "upcoming": [
