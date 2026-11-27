@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-26T19:00:06-05:00",
+  "fetched_at": "2026-11-26T19:30:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Benedict Arnold Slipped Here",
+    "title": "Just Another Fish Story",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "26 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Just Another Fish Story",
-      "time": null,
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Showdown in Saskatchewan",
       "time": null,
@@ -53,6 +47,12 @@
     },
     {
       "title": "Snow White, Blood Red",
+      "time": null,
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Coal Miner's Slaughter",
       "time": null,
       "remaining": null,
       "status": "upcoming"
