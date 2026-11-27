@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-27T05:55:05-05:00",
+  "fetched_at": "2026-11-27T06:00:05-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Something Borrowed, Someone Blue",
     "time": null,
-    "remaining": "45 min left",
+    "remaining": "40 min left",
     "status": "now"
   },
   "upcoming": [
@@ -47,6 +47,12 @@
     },
     {
       "title": "Truck Stop",
+      "time": null,
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "The Sins of Castle Cove",
       "time": null,
       "remaining": null,
       "status": "upcoming"
