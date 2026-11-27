@@ -1,20 +1,14 @@
 {
-  "fetched_at": "2026-11-27T01:15:06-05:00",
+  "fetched_at": "2026-11-27T01:20:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
-    "title": "Mr. Penroy's Vacation",
+    "title": "Snow White, Blood Red",
     "time": null,
-    "remaining": "3 min left",
+    "remaining": "52 min left",
     "status": "now"
   },
   "upcoming": [
-    {
-      "title": "Snow White, Blood Red",
-      "time": null,
-      "remaining": null,
-      "status": "upcoming"
-    },
     {
       "title": "Coal Miner's Slaughter",
       "time": null,
