@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-27T16:55:06-05:00",
+  "fetched_at": "2026-11-27T17:00:06-05:00",
   "source": "https://www.primevideo.com/livetv",
   "timezone": "America/New_York",
   "now": {
     "title": "Mirror, Mirror on the Wall",
     "time": null,
-    "remaining": "32 min left",
+    "remaining": "27 min left",
     "status": "now"
   },
   "upcoming": [
@@ -41,6 +41,12 @@
     },
     {
       "title": "Dead Letter",
+      "time": null,
+      "remaining": null,
+      "status": "upcoming"
+    },
+    {
+      "title": "Night of the Tarantula",
       "time": null,
       "remaining": null,
       "status": "upcoming"
